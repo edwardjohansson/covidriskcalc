@@ -19,10 +19,13 @@ d3.csv("movies.csv").then(function (data) {
 
     // console.log(inputValue.length);
     // console.log(movies);
-
+    if (inputValue.length < 6){
+      d3.select("p").classed('noresults2', true).html("<center><strong>Please try using more than 5 characters to avoid too many results!</strong>")
+      inputValue = "Something to give no results"
+    }
     var filteredData = movies.filter(movies => movies.actors.toLowerCase().trim().includes(inputValue));
     // console.log(filteredData.length)
-    if (filteredData.length === 0 && inputValue !== "Please try a range from 1 to 110"){
+    if (filteredData.length === 0 && inputValue !== "Something to give no results"){
       d3.select("p").classed('noresults', true).html("<center><strong>No results. Please check your spelling!</strong>")
     }
     output = _.sortBy(filteredData, 'avg_vote').reverse()
