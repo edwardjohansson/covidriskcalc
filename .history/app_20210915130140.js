@@ -25,7 +25,7 @@ d3.csv("movies.csv").then(function (data) {
     if (filteredData.length === 0 && inputValue !== "Please try a range from 1 to 110"){
       d3.select("p").classed('noresults', true).html("<center><strong>No results. Please check your spelling!</strong>")
     }
-    //output = _.sortBy(filteredData, 'avg_vote').reverse()
+    output = _.sortBy(filteredData, 'avg_vote').reverse()
 
     for (var i = 0; i < filteredData.length; i++) {
       // console.log(output[i]['original_title'])

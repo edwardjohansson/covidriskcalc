@@ -3,78 +3,78 @@
 1,,,"No infection, Pre-existing Condition",1 in ,,333333.33,1,chance,0.0003%,3073
 2,,,"Active infection, No Pre-existing condition",1 in ,,142857.14,1,chance,0.0007%,3250
 3,,,"Active infection, with Pre-existing condition",1 in ,,32258,1,chance,0.0031%,22213
-4,,,"No infection, No Pre-existing Condition",1 in ,,1000000,2,chance,0.000001,2305
-5,,,"No infection, Pre-existing Condition",1 in ,,333333,2,chance,0.000003,4166
-6,,,"Active infection, No Pre-existing condition",1 in ,,142857,2,chance,0.000007,13875
-7,,,"Active infection, with Pre-existing condition",1 in ,,32258,2,chance,0.000031,5895
-8,,,"No infection, No Pre-existing Condition",1 in ,,1000000,3,chance,0.000001,9241
-9,,,"No infection, Pre-existing Condition",1 in ,,333333,3,chance,0.000003,55601
-10,,,"Active infection, No Pre-existing condition",1 in ,,142857,3,chance,0.000007,4753
-11,,,"Active infection, with Pre-existing condition",1 in ,,32258,3,chance,0.000031,6577
-12,,,"No infection, No Pre-existing Condition",1 in ,,1000000,4,chance,0.000001,2145
-13,,,"No infection, Pre-existing Condition",1 in ,,333333,4,chance,0.000003,4961
-14,,,"Active infection, No Pre-existing condition",1 in ,,142857,4,chance,0.000007,2465
-15,,,"Active infection, with Pre-existing condition",1 in ,,32258,4,chance,0.000031,3058
-16,,,"No infection, No Pre-existing Condition",1 in ,,1000000,5,chance,0.000001,109038
-17,,,"No infection, Pre-existing Condition",1 in ,,333333,5,chance,0.000003,10054
-18,,,"Active infection, No Pre-existing condition",1 in ,,142857,5,chance,0.000007,5136
-19,,,"Active infection, with Pre-existing condition",1 in ,,32258,5,chance,0.000031,4678
-20,,,"No infection, No Pre-existing Condition",1 in ,,1000000,6,chance,0.000001,3055
-21,,,"No infection, Pre-existing Condition",1 in ,,333333,6,chance,0.000003,2216
-22,,,"Active infection, No Pre-existing condition",1 in ,,142857,6,chance,0.000007,3072
-23,,,"Active infection, with Pre-existing condition",1 in ,,32258,6,chance,0.000031,86620
-24,,,"No infection, No Pre-existing Condition",1 in ,,1000000,7,chance,0.000001,4711
-25,,,"No infection, Pre-existing Condition",1 in ,,333333,7,chance,0.000003,9902
-26,,,"Active infection, No Pre-existing condition",1 in ,,142857,7,chance,0.000007,4261
-27,,,"Active infection, with Pre-existing condition",1 in ,,32258,7,chance,0.000031,17795
-28,,,"No infection, No Pre-existing Condition",1 in ,,1000000,8,chance,0.000001,3949
-29,,,"No infection, Pre-existing Condition",1 in ,,333333,8,chance,0.000003,4735
-30,,,"Active infection, No Pre-existing condition",1 in ,,142857,8,chance,0.000007,2303
-31,,,"Active infection, with Pre-existing condition",1 in ,,32258,8,chance,0.000031,3024
-32,,,"No infection, No Pre-existing Condition",1 in ,,1000000,9,chance,0.000001,3044
-33,,,"No infection, Pre-existing Condition",1 in ,,333333,9,chance,0.000003,12157
-34,,,"Active infection, No Pre-existing condition",1 in ,,142857,9,chance,0.000007,8853
-35,,,"Active infection, with Pre-existing condition",1 in ,,32258,9,chance,0.000031,3860
-36,,,"No infection, No Pre-existing Condition",1 in ,,1000000,10,chance,0.000001,5082
-37,,,"No infection, Pre-existing Condition",1 in ,,333333,10,chance,0.000003,2263
-38,,,"Active infection, No Pre-existing condition",1 in ,,142857,10,chance,0.000007,39634
-39,,,"Active infection, with Pre-existing condition",1 in ,,32258,10,chance,0.000031,6877
-40,,,"No infection, No Pre-existing Condition",1 in ,,1000000,11,chance,0.000001,5460
-41,,,"No infection, Pre-existing Condition",1 in ,,333333,11,chance,0.000003,5253
-42,,,"Active infection, No Pre-existing condition",1 in ,,142857,11,chance,0.000007,6096
-43,,,"Active infection, with Pre-existing condition",1 in ,,32258,11,chance,0.000031,51775
-44,,,"No infection, No Pre-existing Condition",1 in ,,1000000,12,chance,0.000001,4882
-45,,,"No infection, Pre-existing Condition",1 in ,,333333,12,chance,0.000003,3710
-46,,,"Active infection, No Pre-existing condition",1 in ,,142857,12,chance,0.000007,97480
-47,,,"Active infection, with Pre-existing condition",1 in ,,32258,12,chance,0.000031,8898
-48,,,"No infection, No Pre-existing Condition",1 in ,,1000000,13,chance,0.000001,4513
-49,,,"No infection, Pre-existing Condition",1 in ,,333333,13,chance,0.000003,2126
-50,,,"Active infection, No Pre-existing condition",1 in ,,142857,13,chance,0.000007,16255
-51,,,"Active infection, with Pre-existing condition",1 in ,,32258,13,chance,0.000031,2111
-52,,,"No infection, No Pre-existing Condition",1 in ,,1000000,14,chance,0.000001,8943
-53,,,"No infection, Pre-existing Condition",1 in ,,333333,14,chance,0.000003,2820
-54,,,"Active infection, No Pre-existing condition",1 in ,,142857,14,chance,0.000007,13588
-55,,,"Active infection, with Pre-existing condition",1 in ,,32258,14,chance,0.000031,3901
-56,,,"No infection, No Pre-existing Condition",1 in ,,1000000,15,chance,0.000001,2758
-57,,,"No infection, Pre-existing Condition",1 in ,,333333,15,chance,0.000003,10024
-58,,,"Active infection, No Pre-existing condition",1 in ,,142857,15,chance,0.000007,2442
-59,,,"Active infection, with Pre-existing condition",1 in ,,32258,15,chance,0.000031,156076
-60,,,"No infection, No Pre-existing Condition",1 in ,,1000000,16,chance,0.000001,2654
-61,,,"No infection, Pre-existing Condition",1 in ,,333333,16,chance,0.000003,4268
-62,,,"Active infection, No Pre-existing condition",1 in ,,142857,16,chance,0.000007,2082
-63,,,"Active infection, with Pre-existing condition",1 in ,,32258,16,chance,0.000031,2465
-64,,,"No infection, No Pre-existing Condition",1 in ,,1000000,17,chance,0.000001,78769
-65,,,"No infection, Pre-existing Condition",1 in ,,333333,17,chance,0.000003,2912
-66,,,"Active infection, No Pre-existing condition",1 in ,,142857,17,chance,0.000007,8866
-67,,,"Active infection, with Pre-existing condition",1 in ,,32258,17,chance,0.000031,3747
-68,,,"No infection, No Pre-existing Condition",1 in ,,1000000,18,chance,0.000001,6864
-69,,,"No infection, Pre-existing Condition",1 in ,,333333,18,chance,0.000003,6877
-70,,,"Active infection, No Pre-existing condition",1 in ,,142857,18,chance,0.000007,3088
-71,,,"Active infection, with Pre-existing condition",1 in ,,32258,18,chance,0.000031,3098
-72,,,"No infection, No Pre-existing Condition",1 in ,,1000000,19,chance,0.000001,46069
-73,,,"No infection, Pre-existing Condition",1 in ,,333333,19,chance,0.000003,2545
-74,,,"Active infection, No Pre-existing condition",1 in ,,142857,19,chance,0.000007,6992
-75,,,"Active infection, with Pre-existing condition",1 in ,,32258,19,chance,0.000031,11139
+4,,,"No infection, No Pre-existing Condition",1 in ,,1000000,2,chance,0.0001%,2305
+5,,,"No infection, Pre-existing Condition",1 in ,,333333,2,chance,0.0003%,4166
+6,,,"Active infection, No Pre-existing condition",1 in ,,142857,2,chance,0.0007%,13875
+7,,,"Active infection, with Pre-existing condition",1 in ,,32258,2,chance,0.0031%,5895
+8,,,"No infection, No Pre-existing Condition",1 in ,,1000000,3,chance,0.0001%,9241
+9,,,"No infection, Pre-existing Condition",1 in ,,333333,3,chance,0.0003%,55601
+10,,,"Active infection, No Pre-existing condition",1 in ,,142857,3,chance,0.0007%,4753
+11,,,"Active infection, with Pre-existing condition",1 in ,,32258,3,chance,0.0031%,6577
+12,,,"No infection, No Pre-existing Condition",1 in ,,1000000,4,chance,0.0001%,2145
+13,,,"No infection, Pre-existing Condition",1 in ,,333333,4,chance,0.0003%,4961
+14,,,"Active infection, No Pre-existing condition",1 in ,,142857,4,chance,0.0007%,2465
+15,,,"Active infection, with Pre-existing condition",1 in ,,32258,4,chance,0.0031%,3058
+16,,,"No infection, No Pre-existing Condition",1 in ,,1000000,5,chance,0.0001%,109038
+17,,,"No infection, Pre-existing Condition",1 in ,,333333,5,chance,0.0003%,10054
+18,,,"Active infection, No Pre-existing condition",1 in ,,142857,5,chance,0.0007%,5136
+19,,,"Active infection, with Pre-existing condition",1 in ,,32258,5,chance,0.0031%,4678
+20,,,"No infection, No Pre-existing Condition",1 in ,,1000000,6,chance,0.0001%,3055
+21,,,"No infection, Pre-existing Condition",1 in ,,333333,6,chance,0.0003%,2216
+22,,,"Active infection, No Pre-existing condition",1 in ,,142857,6,chance,0.0007%,3072
+23,,,"Active infection, with Pre-existing condition",1 in ,,32258,6,chance,0.0031%,86620
+24,,,"No infection, No Pre-existing Condition",1 in ,,1000000,7,chance,0.0001%,4711
+25,,,"No infection, Pre-existing Condition",1 in ,,333333,7,chance,0.0003%,9902
+26,,,"Active infection, No Pre-existing condition",1 in ,,142857,7,chance,0.0007%,4261
+27,,,"Active infection, with Pre-existing condition",1 in ,,32258,7,chance,0.0031%,17795
+28,,,"No infection, No Pre-existing Condition",1 in ,,1000000,8,chance,0.0001%,3949
+29,,,"No infection, Pre-existing Condition",1 in ,,333333,8,chance,0.0003%,4735
+30,,,"Active infection, No Pre-existing condition",1 in ,,142857,8,chance,0.0007%,2303
+31,,,"Active infection, with Pre-existing condition",1 in ,,32258,8,chance,0.0031%,3024
+32,,,"No infection, No Pre-existing Condition",1 in ,,1000000,9,chance,0.0001%,3044
+33,,,"No infection, Pre-existing Condition",1 in ,,333333,9,chance,0.0003%,12157
+34,,,"Active infection, No Pre-existing condition",1 in ,,142857,9,chance,0.0007%,8853
+35,,,"Active infection, with Pre-existing condition",1 in ,,32258,9,chance,0.0031%,3860
+36,,,"No infection, No Pre-existing Condition",1 in ,,1000000,10,chance,0.0001%,5082
+37,,,"No infection, Pre-existing Condition",1 in ,,333333,10,chance,0.0003%,2263
+38,,,"Active infection, No Pre-existing condition",1 in ,,142857,10,chance,0.0007%,39634
+39,,,"Active infection, with Pre-existing condition",1 in ,,32258,10,chance,0.0031%,6877
+40,,,"No infection, No Pre-existing Condition",1 in ,,1000000,11,chance,0.0001%,5460
+41,,,"No infection, Pre-existing Condition",1 in ,,333333,11,chance,0.0003%,5253
+42,,,"Active infection, No Pre-existing condition",1 in ,,142857,11,chance,0.0007%,6096
+43,,,"Active infection, with Pre-existing condition",1 in ,,32258,11,chance,0.0031%,51775
+44,,,"No infection, No Pre-existing Condition",1 in ,,1000000,12,chance,0.0001%,4882
+45,,,"No infection, Pre-existing Condition",1 in ,,333333,12,chance,0.0003%,3710
+46,,,"Active infection, No Pre-existing condition",1 in ,,142857,12,chance,0.0007%,97480
+47,,,"Active infection, with Pre-existing condition",1 in ,,32258,12,chance,0.0031%,8898
+48,,,"No infection, No Pre-existing Condition",1 in ,,1000000,13,chance,0.0001%,4513
+49,,,"No infection, Pre-existing Condition",1 in ,,333333,13,chance,0.0003%,2126
+50,,,"Active infection, No Pre-existing condition",1 in ,,142857,13,chance,0.0007%,16255
+51,,,"Active infection, with Pre-existing condition",1 in ,,32258,13,chance,0.0031%,2111
+52,,,"No infection, No Pre-existing Condition",1 in ,,1000000,14,chance,0.0001%,8943
+53,,,"No infection, Pre-existing Condition",1 in ,,333333,14,chance,0.0003%,2820
+54,,,"Active infection, No Pre-existing condition",1 in ,,142857,14,chance,0.0007%,13588
+55,,,"Active infection, with Pre-existing condition",1 in ,,32258,14,chance,0.0031%,3901
+56,,,"No infection, No Pre-existing Condition",1 in ,,1000000,15,chance,0.0001%,2758
+57,,,"No infection, Pre-existing Condition",1 in ,,333333,15,chance,0.0003%,10024
+58,,,"Active infection, No Pre-existing condition",1 in ,,142857,15,chance,0.0007%,2442
+59,,,"Active infection, with Pre-existing condition",1 in ,,32258,15,chance,0.0031%,156076
+60,,,"No infection, No Pre-existing Condition",1 in ,,1000000,16,chance,0.0001%,2654
+61,,,"No infection, Pre-existing Condition",1 in ,,333333,16,chance,0.0003%,4268
+62,,,"Active infection, No Pre-existing condition",1 in ,,142857,16,chance,0.0007%,2082
+63,,,"Active infection, with Pre-existing condition",1 in ,,32258,16,chance,0.0031%,2465
+64,,,"No infection, No Pre-existing Condition",1 in ,,1000000,17,chance,0.0001%,78769
+65,,,"No infection, Pre-existing Condition",1 in ,,333333,17,chance,0.0003%,2912
+66,,,"Active infection, No Pre-existing condition",1 in ,,142857,17,chance,0.0007%,8866
+67,,,"Active infection, with Pre-existing condition",1 in ,,32258,17,chance,0.0031%,3747
+68,,,"No infection, No Pre-existing Condition",1 in ,,1000000,18,chance,0.0001%,6864
+69,,,"No infection, Pre-existing Condition",1 in ,,333333,18,chance,0.0003%,6877
+70,,,"Active infection, No Pre-existing condition",1 in ,,142857,18,chance,0.0007%,3088
+71,,,"Active infection, with Pre-existing condition",1 in ,,32258,18,chance,0.0031%,3098
+72,,,"No infection, No Pre-existing Condition",1 in ,,1000000,19,chance,0.0001%,46069
+73,,,"No infection, Pre-existing Condition",1 in ,,333333,19,chance,0.0003%,2545
+74,,,"Active infection, No Pre-existing condition",1 in ,,142857,19,chance,0.0007%,6992
+75,,,"Active infection, with Pre-existing condition",1 in ,,32258,19,chance,0.0031%,11139
 76,,,"No infection, No Pre-existing Condition",1 in ,,,20,chance,1929,9541
 77,,,"No infection, Pre-existing Condition",1 in ,,,20,chance,1928,10101
 78,,,"Active infection, No Pre-existing condition",1 in ,,,20,chance,1928,3369
