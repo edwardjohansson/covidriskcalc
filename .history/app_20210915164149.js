@@ -21,7 +21,7 @@ d3.csv("movies.csv").then(function (data) {
     // console.log(movies);
 
     //var filteredData = movies.filter(movies => movies.actors.toLowerCase().trim().includes(inputValue));
-    var filteredData = movies.filter(movies => movies === inputValue);
+    var filteredData = movies.filter(movies => movies === inputValue));
     // console.log(filteredData.length)
     if (filteredData.length === 0 && inputValue !== "Something to give no results"){
       d3.select("p").classed('noresults', true).html("<center><strong>No results. Please check your spelling!</strong>")
