@@ -1,478 +1,478 @@
 ,imdb_title_id,title,original_title,year,genre,director,actors,description,avg_vote,votes
-0,,,"No infection, No Pre-existing Condition",1 in ,,1000000,1,chance,0.0001%,2237
-1,,,"No infection, Pre-existing Condition",1 in ,,333333.33,1,chance,0.0003%,3073
-2,,,"Active infection, No Pre-existing condition",1 in ,,142857.14,1,chance,0.0007%,3250
-3,,,"Active infection, with Pre-existing condition",1 in ,,32258,1,chance,0.0031%,22213
-4,,,"No infection, No Pre-existing Condition",1 in ,,1000000,2,chance,0.0001%,2305
-5,,,"No infection, Pre-existing Condition",1 in ,,333333,2,chance,0.0003%,4166
-6,,,"Active infection, No Pre-existing condition",1 in ,,142857,2,chance,0.0007%,13875
-7,,,"Active infection, with Pre-existing condition",1 in ,,32258,2,chance,0.0031%,5895
-8,,,"No infection, No Pre-existing Condition",1 in ,,1000000,3,chance,0.0001%,9241
-9,,,"No infection, Pre-existing Condition",1 in ,,333333,3,chance,0.0003%,55601
-10,,,"Active infection, No Pre-existing condition",1 in ,,142857,3,chance,0.0007%,4753
-11,,,"Active infection, with Pre-existing condition",1 in ,,32258,3,chance,0.0031%,6577
-12,,,"No infection, No Pre-existing Condition",1 in ,,1000000,4,chance,0.0001%,2145
-13,,,"No infection, Pre-existing Condition",1 in ,,333333,4,chance,0.0003%,4961
-14,,,"Active infection, No Pre-existing condition",1 in ,,142857,4,chance,0.0007%,2465
-15,,,"Active infection, with Pre-existing condition",1 in ,,32258,4,chance,0.0031%,3058
-16,,,"No infection, No Pre-existing Condition",1 in ,,1000000,5,chance,0.0001%,109038
-17,,,"No infection, Pre-existing Condition",1 in ,,333333,5,chance,0.0003%,10054
-18,,,"Active infection, No Pre-existing condition",1 in ,,142857,5,chance,0.0007%,5136
-19,,,"Active infection, with Pre-existing condition",1 in ,,32258,5,chance,0.0031%,4678
-20,,,"No infection, No Pre-existing Condition",1 in ,,1000000,6,chance,0.0001%,3055
-21,,,"No infection, Pre-existing Condition",1 in ,,333333,6,chance,0.0003%,2216
-22,,,"Active infection, No Pre-existing condition",1 in ,,142857,6,chance,0.0007%,3072
-23,,,"Active infection, with Pre-existing condition",1 in ,,32258,6,chance,0.0031%,86620
-24,,,"No infection, No Pre-existing Condition",1 in ,,1000000,7,chance,0.0001%,4711
-25,,,"No infection, Pre-existing Condition",1 in ,,333333,7,chance,0.0003%,9902
-26,,,"Active infection, No Pre-existing condition",1 in ,,142857,7,chance,0.0007%,4261
-27,,,"Active infection, with Pre-existing condition",1 in ,,32258,7,chance,0.0031%,17795
-28,,,"No infection, No Pre-existing Condition",1 in ,,1000000,8,chance,0.0001%,3949
-29,,,"No infection, Pre-existing Condition",1 in ,,333333,8,chance,0.0003%,4735
-30,,,"Active infection, No Pre-existing condition",1 in ,,142857,8,chance,0.0007%,2303
-31,,,"Active infection, with Pre-existing condition",1 in ,,32258,8,chance,0.0031%,3024
-32,,,"No infection, No Pre-existing Condition",1 in ,,1000000,9,chance,0.0001%,3044
-33,,,"No infection, Pre-existing Condition",1 in ,,333333,9,chance,0.0003%,12157
-34,,,"Active infection, No Pre-existing condition",1 in ,,142857,9,chance,0.0007%,8853
-35,,,"Active infection, with Pre-existing condition",1 in ,,32258,9,chance,0.0031%,3860
-36,,,"No infection, No Pre-existing Condition",1 in ,,1000000,10,chance,0.0001%,5082
-37,,,"No infection, Pre-existing Condition",1 in ,,333333,10,chance,0.0003%,2263
-38,,,"Active infection, No Pre-existing condition",1 in ,,142857,10,chance,0.0007%,39634
-39,,,"Active infection, with Pre-existing condition",1 in ,,32258,10,chance,0.0031%,6877
-40,,,"No infection, No Pre-existing Condition",1 in ,,1000000,11,chance,0.0001%,5460
-41,,,"No infection, Pre-existing Condition",1 in ,,333333,11,chance,0.0003%,5253
-42,,,"Active infection, No Pre-existing condition",1 in ,,142857,11,chance,0.0007%,6096
-43,,,"Active infection, with Pre-existing condition",1 in ,,32258,11,chance,0.0031%,51775
-44,,,"No infection, No Pre-existing Condition",1 in ,,1000000,12,chance,0.0001%,4882
-45,,,"No infection, Pre-existing Condition",1 in ,,333333,12,chance,0.0003%,3710
-46,,,"Active infection, No Pre-existing condition",1 in ,,142857,12,chance,0.0007%,97480
-47,,,"Active infection, with Pre-existing condition",1 in ,,32258,12,chance,0.0031%,8898
-48,,,"No infection, No Pre-existing Condition",1 in ,,1000000,13,chance,0.0001%,4513
-49,,,"No infection, Pre-existing Condition",1 in ,,333333,13,chance,0.0003%,2126
-50,,,"Active infection, No Pre-existing condition",1 in ,,142857,13,chance,0.0007%,16255
-51,,,"Active infection, with Pre-existing condition",1 in ,,32258,13,chance,0.0031%,2111
-52,,,"No infection, No Pre-existing Condition",1 in ,,1000000,14,chance,0.0001%,8943
-53,,,"No infection, Pre-existing Condition",1 in ,,333333,14,chance,0.0003%,2820
-54,,,"Active infection, No Pre-existing condition",1 in ,,142857,14,chance,0.0007%,13588
-55,,,"Active infection, with Pre-existing condition",1 in ,,32258,14,chance,0.0031%,3901
-56,,,"No infection, No Pre-existing Condition",1 in ,,1000000,15,chance,0.0001%,2758
-57,,,"No infection, Pre-existing Condition",1 in ,,333333,15,chance,0.0003%,10024
-58,,,"Active infection, No Pre-existing condition",1 in ,,142857,15,chance,0.0007%,2442
-59,,,"Active infection, with Pre-existing condition",1 in ,,32258,15,chance,0.0031%,156076
-60,,,"No infection, No Pre-existing Condition",1 in ,,1000000,16,chance,0.0001%,2654
-61,,,"No infection, Pre-existing Condition",1 in ,,333333,16,chance,0.0003%,4268
-62,,,"Active infection, No Pre-existing condition",1 in ,,142857,16,chance,0.0007%,2082
-63,,,"Active infection, with Pre-existing condition",1 in ,,32258,16,chance,0.0031%,2465
-64,,,"No infection, No Pre-existing Condition",1 in ,,1000000,17,chance,0.0001%,78769
-65,,,"No infection, Pre-existing Condition",1 in ,,333333,17,chance,0.0003%,2912
-66,,,"Active infection, No Pre-existing condition",1 in ,,142857,17,chance,0.0007%,8866
-67,,,"Active infection, with Pre-existing condition",1 in ,,32258,17,chance,0.0031%,3747
-68,,,"No infection, No Pre-existing Condition",1 in ,,1000000,18,chance,0.0001%,6864
-69,,,"No infection, Pre-existing Condition",1 in ,,333333,18,chance,0.0003%,6877
-70,,,"Active infection, No Pre-existing condition",1 in ,,142857,18,chance,0.0007%,3088
-71,,,"Active infection, with Pre-existing condition",1 in ,,32258,18,chance,0.0031%,3098
-72,,,"No infection, No Pre-existing Condition",1 in ,,1000000,19,chance,0.0001%,46069
-73,,,"No infection, Pre-existing Condition",1 in ,,333333,19,chance,0.0003%,2545
-74,,,"Active infection, No Pre-existing condition",1 in ,,142857,19,chance,0.0007%,6992
-75,,,"Active infection, with Pre-existing condition",1 in ,,32258,19,chance,0.0031%,11139
-76,,,"No infection, No Pre-existing Condition",1 in ,,,20,chance,1929,9541
-77,,,"No infection, Pre-existing Condition",1 in ,,,20,chance,1928,10101
-78,,,"Active infection, No Pre-existing condition",1 in ,,,20,chance,1928,3369
-79,,,"Active infection, with Pre-existing condition",1 in ,,,20,chance,1928,27414
-80,,,"No infection, No Pre-existing Condition",1 in ,,,21,chance,1928,3860
-81,,,"No infection, Pre-existing Condition",1 in ,,,21,chance,1928,2434
-82,,,"Active infection, No Pre-existing condition",1 in ,,,21,chance,1928,3282
-83,,,"Active infection, with Pre-existing condition",1 in ,,,21,chance,1928,5711
-84,,,"No infection, No Pre-existing Condition",1 in ,,,22,chance,1928,45823
-85,,,"No infection, Pre-existing Condition",1 in ,,,22,chance,1928,2330
-86,,,"Active infection, No Pre-existing condition",1 in ,,,22,chance,1928,2519
-87,,,"Active infection, with Pre-existing condition",1 in ,,,22,chance,1928,3458
-88,,,"No infection, No Pre-existing Condition",1 in ,,,23,chance,1928,3178
-89,,,"No infection, Pre-existing Condition",1 in ,,,23,chance,1928,3062
-90,,,"Active infection, No Pre-existing condition",1 in ,,,23,chance,1928,12809
-91,,,"Active infection, with Pre-existing condition",1 in ,,,23,chance,1928,2090
-92,,,"No infection, No Pre-existing Condition",1 in ,,,24,chance,1928,5980
-93,,,"No infection, Pre-existing Condition",1 in ,,,24,chance,1929,9412
-94,,,"Active infection, No Pre-existing condition",1 in ,,,24,chance,1929,6327
-95,,,"Active infection, with Pre-existing condition",1 in ,,,24,chance,1929,6900
-96,,,"No infection, No Pre-existing Condition",1 in ,,,25,chance,1929,2899
-97,,,"No infection, Pre-existing Condition",1 in ,,,25,chance,1929,2555
-98,,,"Active infection, No Pre-existing condition",1 in ,,,25,chance,1930,2649
-99,,,"Active infection, with Pre-existing condition",1 in ,,,25,chance,1932,3049
-100,,,"No infection, No Pre-existing Condition",1 in ,,,26,chance,1929,3996
-101,,,"No infection, Pre-existing Condition",1 in ,,,26,chance,1930,56356
-102,,,"Active infection, No Pre-existing condition",1 in ,,,26,chance,1930,13341
-103,,,"Active infection, with Pre-existing condition",1 in ,,,26,chance,1930,2760
-104,,,"No infection, No Pre-existing Condition",1 in ,,,27,chance,1930,3312
-105,,,"No infection, Pre-existing Condition",1 in ,,,27,chance,1930,13311
-106,,,"Active infection, No Pre-existing condition",1 in ,,,27,chance,1930,2842
-107,,,"Active infection, with Pre-existing condition",1 in ,,,27,chance,1930,2705
-108,,,"No infection, No Pre-existing Condition",1 in ,,,28,chance,1930,4748
-109,,,"No infection, Pre-existing Condition",1 in ,,,28,chance,1931,11746
-110,,,"Active infection, No Pre-existing condition",1 in ,,,28,chance,1930,5443
-111,,,"Active infection, with Pre-existing condition",1 in ,,,28,chance,1930,5651
-112,,,"No infection, No Pre-existing Condition",1 in ,,,29,chance,1930,5834
-113,,,"No infection, Pre-existing Condition",1 in ,,,29,chance,1930,4949
-114,,,"Active infection, No Pre-existing condition",1 in ,,,29,chance,1930,12551
-115,,,"Active infection, with Pre-existing condition",1 in ,,,29,chance,1931,2741
-116,,,"No infection, No Pre-existing Condition",1 in ,,,30,chance,1931,3628
-117,,,"No infection, Pre-existing Condition",1 in ,,,30,chance,1931,5304
-118,,,"Active infection, No Pre-existing condition",1 in ,,,30,chance,1931,162668
-119,,,"Active infection, with Pre-existing condition",1 in ,,,30,chance,1931,45054
-120,,,"No infection, No Pre-existing Condition",1 in ,,,31,chance,1931,3901
-121,,,"No infection, Pre-existing Condition",1 in ,,,31,chance,1931,63315
-122,,,"Active infection, No Pre-existing condition",1 in ,,,31,chance,1931,2225
-123,,,"Active infection, with Pre-existing condition",1 in ,,,31,chance,1931,2348
-124,,,"No infection, No Pre-existing Condition",1 in ,,,32,chance,1931,3148
-125,,,"No infection, Pre-existing Condition",1 in ,,,32,chance,1931,139271
-126,,,"Active infection, No Pre-existing condition",1 in ,,,32,chance,1931,2692
-127,,,"Active infection, with Pre-existing condition",1 in ,,,32,chance,1931,3140
-128,,,"No infection, No Pre-existing Condition",1 in ,,,33,chance,1931,11207
-129,,,"No infection, Pre-existing Condition",1 in ,,,33,chance,1931,2432
-130,,,"Active infection, No Pre-existing condition",1 in ,,,33,chance,1931,3212
-131,,,"Active infection, with Pre-existing condition",1 in ,,,33,chance,1931,2143
-132,,,"No infection, No Pre-existing Condition",1 in ,,,34,chance,1931,2719
-133,,,"No infection, Pre-existing Condition",1 in ,,,34,chance,1931,17299
-134,,,"Active infection, No Pre-existing condition",1 in ,,,34,chance,1931,2809
-135,,,"Active infection, with Pre-existing condition",1 in ,,,34,chance,1931,4879
-136,,,"No infection, No Pre-existing Condition",1 in ,,,35,chance,1931,2406
-137,,,"No infection, Pre-existing Condition",1 in ,,,35,chance,1931,4004
-138,,,"Active infection, No Pre-existing condition",1 in ,,,35,chance,1932,4255
-139,,,"Active infection, with Pre-existing condition",1 in ,,,35,chance,1932,5046
-140,,,"No infection, No Pre-existing Condition",1 in ,,,36,chance,1932,2739
-141,,,"No infection, Pre-existing Condition",1 in ,,,36,chance,1931,12225
-142,,,"Active infection, No Pre-existing condition",1 in ,,,36,chance,1933,2093
-143,,,"Active infection, with Pre-existing condition",1 in ,,,36,chance,1932,4957
-144,,,"No infection, No Pre-existing Condition",1 in ,,,37,chance,1932,41173
-145,,,"No infection, Pre-existing Condition",1 in ,,,37,chance,1932,16927
-146,,,"Active infection, No Pre-existing condition",1 in ,,,37,chance,1932,11594
-147,,,"Active infection, with Pre-existing condition",1 in ,,,37,chance,1932,11390
-148,,,"No infection, No Pre-existing Condition",1 in ,,,38,chance,1932,3497
-149,,,"No infection, Pre-existing Condition",1 in ,,,38,chance,1932,2960
-150,,,"Active infection, No Pre-existing condition",1 in ,,,38,chance,1931,3209
-151,,,"Active infection, with Pre-existing condition",1 in ,,,38,chance,1932,10149
-152,,,"No infection, No Pre-existing Condition",1 in ,,,39,chance,1932,22728
-153,,,"No infection, Pre-existing Condition",1 in ,,,39,chance,1932,3691
-154,,,"Active infection, No Pre-existing condition",1 in ,,,39,chance,1932,4352
-155,,,"Active infection, with Pre-existing condition",1 in ,,,39,chance,1932,8877
-156,,,"No infection, No Pre-existing Condition",1 in ,,,40,chance,1932,2078
-157,,,"No infection, Pre-existing Condition",1 in ,,,40,chance,1932,3326
-158,,,"Active infection, No Pre-existing condition",1 in ,,,40,chance,1932,2318
-159,,,"Active infection, with Pre-existing condition",1 in ,,,40,chance,1932,3716
-160,,,"No infection, No Pre-existing Condition",1 in ,,,41,chance,1932,2650
-161,,,"No infection, Pre-existing Condition",1 in ,,,41,chance,1931,3895
-162,,,"Active infection, No Pre-existing condition",1 in ,,,41,chance,1932,24697
-163,,,"Active infection, with Pre-existing condition",1 in ,,,41,chance,1932,6864
-164,,,"No infection, No Pre-existing Condition",1 in ,,,42,chance,1933,11162
-165,,,"No infection, Pre-existing Condition",1 in ,,,42,chance,1932,3280
-166,,,"Active infection, No Pre-existing condition",1 in ,,,42,chance,1932,12531
-167,,,"Active infection, with Pre-existing condition",1 in ,,,42,chance,1932,4781
-168,,,"No infection, No Pre-existing Condition",1 in ,,,43,chance,1932,15250
-169,,,"No infection, Pre-existing Condition",1 in ,,,43,chance,1932,2110
-170,,,"Active infection, No Pre-existing condition",1 in ,,,43,chance,1932,9031
-171,,,"Active infection, with Pre-existing condition",1 in ,,,43,chance,1932,2345
-172,,,"No infection, No Pre-existing Condition",1 in ,,,44,chance,1933,6055
-173,,,"No infection, Pre-existing Condition",1 in ,,,44,chance,1932,3403
-174,,,"Active infection, No Pre-existing condition",1 in ,,,44,chance,1933,2247
-175,,,"Active infection, with Pre-existing condition",1 in ,,,44,chance,1933,4442
-176,,,"No infection, No Pre-existing Condition",1 in ,,,45,chance,1933,5548
-177,,,"No infection, Pre-existing Condition",1 in ,,,45,chance,1933,54717
-178,,,"Active infection, No Pre-existing condition",1 in ,,,45,chance,1933,3275
-179,,,"Active infection, with Pre-existing condition",1 in ,,,45,chance,1933,4716
-180,,,"No infection, No Pre-existing Condition",1 in ,,,46,chance,1933,10490
-181,,,"No infection, Pre-existing Condition",1 in ,,,46,chance,1933,2181
-182,,,"Active infection, No Pre-existing condition",1 in ,,,46,chance,1933,2837
-183,,,"Active infection, with Pre-existing condition",1 in ,,,46,chance,1933,29291
-184,,,"No infection, No Pre-existing Condition",1 in ,,,47,chance,1932,7933
-185,,,"No infection, Pre-existing Condition",1 in ,,,47,chance,1933,2972
-186,,,"Active infection, No Pre-existing condition",1 in ,,,47,chance,1933,77507
-187,,,"Active infection, with Pre-existing condition",1 in ,,,47,chance,1933,3709
-188,,,"No infection, No Pre-existing Condition",1 in ,,,48,chance,1933,6254
-189,,,"No infection, Pre-existing Condition",1 in ,,,48,chance,1933,2589
-190,,,"Active infection, No Pre-existing condition",1 in ,,,48,chance,1933,4509
-191,,,"Active infection, with Pre-existing condition",1 in ,,,48,chance,1933,3598
-192,,,"No infection, No Pre-existing Condition",1 in ,,,49,chance,1933,5256
-193,,,"No infection, Pre-existing Condition",1 in ,,,49,chance,1933,3835
-194,,,"Active infection, No Pre-existing condition",1 in ,,,49,chance,1933,7655
-195,,,"Active infection, with Pre-existing condition",1 in ,,,49,chance,1933,2137
-196,,,"No infection, No Pre-existing Condition",1 in ,,,50,chance,1934,14140
-197,,,"No infection, Pre-existing Condition",1 in ,,,50,chance,1934,5901
-198,,,"Active infection, No Pre-existing condition",1 in ,,,50,chance,1934,9155
-199,,,"Active infection, with Pre-existing condition",1 in ,,,50,chance,1934,3331
-200,,,"No infection, No Pre-existing Condition",1 in ,,,51,chance,1934,2399
-201,,,"No infection, Pre-existing Condition",1 in ,,,51,chance,1934,6797
-202,,,"Active infection, No Pre-existing condition",1 in ,,,51,chance,1934,4013
-203,,,"Active infection, with Pre-existing condition",1 in ,,,51,chance,1934,91400
-204,,,"No infection, No Pre-existing Condition",1 in ,,,52,chance,1934,4807
-205,,,"No infection, Pre-existing Condition",1 in ,,,52,chance,1934,2942
-206,,,"Active infection, No Pre-existing condition",1 in ,,,52,chance,1934,16558
-207,,,"Active infection, with Pre-existing condition",1 in ,,,52,chance,1934,3514
-208,,,"No infection, No Pre-existing Condition",1 in ,,,53,chance,1934,2100
-209,,,"No infection, Pre-existing Condition",1 in ,,,53,chance,1934,2498
-210,,,"Active infection, No Pre-existing condition",1 in ,,,53,chance,1934,6194
-211,,,"Active infection, with Pre-existing condition",1 in ,,,53,chance,1934,5688
-212,,,"No infection, No Pre-existing Condition",1 in ,,,54,chance,1934,3759
-213,,,"No infection, Pre-existing Condition",1 in ,,,54,chance,1934,4704
-214,,,"Active infection, No Pre-existing condition",1 in ,,,54,chance,1934,25805
-215,,,"Active infection, with Pre-existing condition",1 in ,,,54,chance,1934,2340
-216,,,"No infection, No Pre-existing Condition",1 in ,,,55,chance,1934,5637
-217,,,"No infection, Pre-existing Condition",1 in ,,,55,chance,1934,2771
-218,,,"Active infection, No Pre-existing condition",1 in ,,,55,chance,1935,50519
-219,,,"Active infection, with Pre-existing condition",1 in ,,,55,chance,1935,3673
-220,,,"No infection, No Pre-existing Condition",1 in ,,,56,chance,1935,4843
-221,,,"No infection, Pre-existing Condition",1 in ,,,56,chance,1935,42196
-222,,,"Active infection, No Pre-existing condition",1 in ,,,56,chance,1935,12731
-223,,,"Active infection, with Pre-existing condition",1 in ,,,56,chance,1935,2229
-224,,,"No infection, No Pre-existing Condition",1 in ,,,57,chance,1935,2761
-225,,,"No infection, Pre-existing Condition",1 in ,,,57,chance,1935,3670
-226,,,"Active infection, No Pre-existing condition",1 in ,,,57,chance,1935,2942
-227,,,"Active infection, with Pre-existing condition",1 in ,,,57,chance,1935,3502
-228,,,"No infection, No Pre-existing Condition",1 in ,,,58,chance,1935,2401
-229,,,"No infection, Pre-existing Condition",1 in ,,,58,chance,1935,5571
-230,,,"Active infection, No Pre-existing condition",1 in ,,,58,chance,1935,2548
-231,,,"Active infection, with Pre-existing condition",1 in ,,,58,chance,1935,4339
-232,,,"No infection, No Pre-existing Condition",1 in ,,,59,chance,1935,4247
-233,,,"No infection, Pre-existing Condition",1 in ,,,59,chance,1935,3094
-234,,,"Active infection, No Pre-existing condition",1 in ,,,59,chance,1935,3279
-235,,,"Active infection, with Pre-existing condition",1 in ,,,59,chance,1935,20336
-236,,,"No infection, No Pre-existing Condition",1 in ,,,60,chance,1935,30030
-237,,,"No infection, Pre-existing Condition",1 in ,,,60,chance,1935,4477
-238,,,"Active infection, No Pre-existing condition",1 in ,,,60,chance,1935,2860
-239,,,"Active infection, with Pre-existing condition",1 in ,,,60,chance,1935,3587
-240,,,"No infection, No Pre-existing Condition",1 in ,,,61,chance,1935,3544
-241,,,"No infection, Pre-existing Condition",1 in ,,,61,chance,1935,5008
-242,,,"Active infection, No Pre-existing condition",1 in ,,,61,chance,1935,17004
-243,,,"Active infection, with Pre-existing condition",1 in ,,,61,chance,1935,4745
-244,,,"No infection, No Pre-existing Condition",1 in ,,,62,chance,1935,2281
-245,,,"No infection, Pre-existing Condition",1 in ,,,62,chance,1936,9231
-246,,,"Active infection, No Pre-existing condition",1 in ,,,62,chance,1936,2911
-247,,,"Active infection, with Pre-existing condition",1 in ,,,62,chance,1937,2664
-248,,,"No infection, No Pre-existing Condition",1 in ,,,63,chance,1936,2618
-249,,,"No infection, Pre-existing Condition",1 in ,,,63,chance,1936,4441
-250,,,"Active infection, No Pre-existing condition",1 in ,,,63,chance,1936,2886
-251,,,"Active infection, with Pre-existing condition",1 in ,,,63,chance,1936,2078
-252,,,"No infection, No Pre-existing Condition",1 in ,,,64,chance,1936,3654
-253,,,"No infection, Pre-existing Condition",1 in ,,,64,chance,1936,7944
-254,,,"Active infection, No Pre-existing condition",1 in ,,,64,chance,1936,5662
-255,,,"Active infection, with Pre-existing condition",1 in ,,,64,chance,1936,2119
-256,,,"No infection, No Pre-existing Condition",1 in ,,,65,chance,1936,3878
-257,,,"No infection, Pre-existing Condition",1 in ,,,65,chance,1936,11011
-258,,,"Active infection, No Pre-existing condition",1 in ,,,65,chance,1936,2358
-259,,,"Active infection, with Pre-existing condition",1 in ,,,65,chance,1936,3047
-260,,,"No infection, No Pre-existing Condition",1 in ,,,66,chance,1936,2172
-261,,,"No infection, Pre-existing Condition",1 in ,,,66,chance,1936,6848
-262,,,"Active infection, No Pre-existing condition",1 in ,,,66,chance,1936,2243
-263,,,"Active infection, with Pre-existing condition",1 in ,,,66,chance,1936,211250
-264,,,"No infection, No Pre-existing Condition",1 in ,,,67,chance,1936,19316
-265,,,"No infection, Pre-existing Condition",1 in ,,,67,chance,1936,20482
-266,,,"Active infection, No Pre-existing condition",1 in ,,,67,chance,1936,2733
-267,,,"Active infection, with Pre-existing condition",1 in ,,,67,chance,1936,12217
-268,,,"No infection, No Pre-existing Condition",1 in ,,,68,chance,1936,14481
-269,,,"No infection, Pre-existing Condition",1 in ,,,68,chance,1936,4794
-270,,,"Active infection, No Pre-existing condition",1 in ,,,68,chance,1936,7611
-271,,,"Active infection, with Pre-existing condition",1 in ,,,68,chance,1936,2844
-272,,,"No infection, No Pre-existing Condition",1 in ,,,69,chance,1936,2224
-273,,,"No infection, Pre-existing Condition",1 in ,,,69,chance,1936,11998
-274,,,"Active infection, No Pre-existing condition",1 in ,,,69,chance,1936,3073
-275,,,"Active infection, with Pre-existing condition",1 in ,,,69,chance,1936,7696
-276,,,"No infection, No Pre-existing Condition",1 in ,,,70,chance,1936,2252
-277,,,"No infection, Pre-existing Condition",1 in ,,,70,chance,1936,6959
-278,,,"Active infection, No Pre-existing condition",1 in ,,,70,chance,1936,2313
-279,,,"Active infection, with Pre-existing condition",1 in ,,,70,chance,1936,2985
-280,,,"No infection, No Pre-existing Condition",1 in ,,,71,chance,1937,2129
-281,,,"No infection, Pre-existing Condition",1 in ,,,71,chance,1937,17167
-282,,,"Active infection, No Pre-existing condition",1 in ,,,71,chance,1937,8515
-283,,,"Active infection, with Pre-existing condition",1 in ,,,71,chance,1937,12758
-284,,,"No infection, No Pre-existing Condition",1 in ,,,72,chance,1937,6224
-285,,,"No infection, Pre-existing Condition",1 in ,,,72,chance,1937,2946
-286,,,"Active infection, No Pre-existing condition",1 in ,,,72,chance,1937,4420
-287,,,"Active infection, with Pre-existing condition",1 in ,,,72,chance,1937,33179
-288,,,"No infection, No Pre-existing Condition",1 in ,,,73,chance,1937,4033
-289,,,"No infection, Pre-existing Condition",1 in ,,,73,chance,1937,2262
-290,,,"Active infection, No Pre-existing condition",1 in ,,,73,chance,1937,3040
-291,,,"Active infection, with Pre-existing condition",1 in ,,,73,chance,1937,6915
-292,,,"No infection, No Pre-existing Condition",1 in ,,,74,chance,1937,11768
-293,,,"No infection, Pre-existing Condition",1 in ,,,74,chance,1937,3437
-294,,,"Active infection, No Pre-existing condition",1 in ,,,74,chance,1940,9008
-295,,,"Active infection, with Pre-existing condition",1 in ,,,74,chance,1937,2127
-296,,,"No infection, No Pre-existing Condition",1 in ,,,75,chance,1937,5841
-297,,,"No infection, Pre-existing Condition",1 in ,,,75,chance,1937,2276
-298,,,"Active infection, No Pre-existing condition",1 in ,,,75,chance,1937,4085
-299,,,"Active infection, with Pre-existing condition",1 in ,,,75,chance,1937,6180
-300,,,"No infection, No Pre-existing Condition",1 in ,,,76,chance,1937,6414
-301,,,"No infection, Pre-existing Condition",1 in ,,,76,chance,1937,177157
-302,,,"Active infection, No Pre-existing condition",1 in ,,,76,chance,1937,8448
-303,,,"Active infection, with Pre-existing condition",1 in ,,,76,chance,1937,4577
-304,,,"No infection, No Pre-existing Condition",1 in ,,,77,chance,1937,6621
-305,,,"No infection, Pre-existing Condition",1 in ,,,77,chance,1937,5562
-306,,,"Active infection, No Pre-existing condition",1 in ,,,77,chance,1937,8433
-307,,,"Active infection, with Pre-existing condition",1 in ,,,77,chance,1938,46382
-308,,,"No infection, No Pre-existing Condition",1 in ,,,78,chance,1938,10279
-309,,,"No infection, Pre-existing Condition",1 in ,,,78,chance,1938,2407
-310,,,"Active infection, No Pre-existing condition",1 in ,,,78,chance,1938,2279
-311,,,"Active infection, with Pre-existing condition",1 in ,,,78,chance,1938,19434
-312,,,"No infection, No Pre-existing Condition",1 in ,,,79,chance,1938,3403
-313,,,"No infection, Pre-existing Condition",1 in ,,,79,chance,1938,3156
-314,,,"Active infection, No Pre-existing condition",1 in ,,,79,chance,1938,5008
-315,,,"Active infection, with Pre-existing condition",1 in ,,,79,chance,1938,53931
-316,,,"No infection, No Pre-existing Condition",1 in ,,,80,chance,1938,6761
-317,,,"No infection, Pre-existing Condition",1 in ,,,80,chance,1938,3293
-318,,,"Active infection, No Pre-existing condition",1 in ,,,80,chance,1938,5902
-319,,,"Active infection, with Pre-existing condition",1 in ,,,80,chance,1938,2649
-320,,,"No infection, No Pre-existing Condition",1 in ,,,81,chance,1938,13952
-321,,,"No infection, Pre-existing Condition",1 in ,,,81,chance,1938,2163
-322,,,"Active infection, No Pre-existing condition",1 in ,,,81,chance,1938,11729
-323,,,"Active infection, with Pre-existing condition",1 in ,,,81,chance,1938,46159
-324,,,"No infection, No Pre-existing Condition",1 in ,,,82,chance,1938,2641
-325,,,"No infection, Pre-existing Condition",1 in ,,,82,chance,1938,7696
-326,,,"Active infection, No Pre-existing condition",1 in ,,,82,chance,1938,8028
-327,,,"Active infection, with Pre-existing condition",1 in ,,,82,chance,1938,4682
-328,,,"No infection, No Pre-existing Condition",1 in ,,,83,chance,1938,3119
-329,,,"No infection, Pre-existing Condition",1 in ,,,83,chance,1938,22818
-330,,,"Active infection, No Pre-existing condition",1 in ,,,83,chance,1939,6132
-331,,,"Active infection, with Pre-existing condition",1 in ,,,83,chance,1939,6327
-332,,,"No infection, No Pre-existing Condition",1 in ,,,84,chance,1939,5449
-333,,,"No infection, Pre-existing Condition",1 in ,,,84,chance,1939,2256
-334,,,"Active infection, No Pre-existing condition",1 in ,,,84,chance,1939,3566
-335,,,"Active infection, with Pre-existing condition",1 in ,,,84,chance,1939,5406
-336,,,"No infection, No Pre-existing Condition",1 in ,,,85,chance,1939,2538
-337,,,"No infection, Pre-existing Condition",1 in ,,,85,chance,1939,9746
-338,,,"Active infection, No Pre-existing condition",1 in ,,,85,chance,1939,9914
-339,,,"Active infection, with Pre-existing condition",1 in ,,,85,chance,1939,4596
-340,,,"No infection, No Pre-existing Condition",1 in ,,,86,chance,1939,5542
-341,,,"No infection, Pre-existing Condition",1 in ,,,86,chance,1939,2868
-342,,,"Active infection, No Pre-existing condition",1 in ,,,86,chance,1939,4549
-343,,,"Active infection, with Pre-existing condition",1 in ,,,86,chance,1939,5376
-344,,,"No infection, No Pre-existing Condition",1 in ,,,87,chance,1940,3743
-345,,,"No infection, Pre-existing Condition",1 in ,,,87,chance,1939,283975
-346,,,"Active infection, No Pre-existing condition",1 in ,,,87,chance,1939,9551
-347,,,"Active infection, with Pre-existing condition",1 in ,,,87,chance,1939,3767
-348,,,"No infection, No Pre-existing Condition",1 in ,,,88,chance,1939,10731
-349,,,"No infection, Pre-existing Condition",1 in ,,,88,chance,1939,9222
-350,,,"Active infection, No Pre-existing condition",1 in ,,,88,chance,1939,10155
-351,,,"Active infection, with Pre-existing condition",1 in ,,,88,chance,1939,2568
-352,,,"No infection, No Pre-existing Condition",1 in ,,,89,chance,1939,2216
-353,,,"No infection, Pre-existing Condition",1 in ,,,89,chance,1939,2503
-354,,,"Active infection, No Pre-existing condition",1 in ,,,89,chance,1939,8839
-355,,,"Active infection, with Pre-existing condition",1 in ,,,89,chance,1939,3887
-356,,,"No infection, No Pre-existing Condition",1 in ,,,90,chance,1939,6583
-357,,,"No infection, Pre-existing Condition",1 in ,,,90,chance,1939,5500
-358,,,"Active infection, No Pre-existing condition",1 in ,,,90,chance,1939,4262
-359,,,"Active infection, with Pre-existing condition",1 in ,,,90,chance,1939,3170
-360,,,"No infection, No Pre-existing Condition",1 in ,,,91,chance,1939,4308
-361,,,"No infection, Pre-existing Condition",1 in ,,,91,chance,1939,104547
-362,,,"Active infection, No Pre-existing condition",1 in ,,,91,chance,1939,18470
-363,,,"Active infection, with Pre-existing condition",1 in ,,,91,chance,1939,5337
-364,,,"No infection, No Pre-existing Condition",1 in ,,,92,chance,1939,3168
-365,,,"No infection, Pre-existing Condition",1 in ,,,92,chance,1939,12164
-366,,,"Active infection, No Pre-existing condition",1 in ,,,92,chance,1939,4982
-367,,,"Active infection, with Pre-existing condition",1 in ,,,92,chance,1939,12461
-368,,,"No infection, No Pre-existing Condition",1 in ,,,93,chance,1939,26110
-369,,,"No infection, Pre-existing Condition",1 in ,,,93,chance,1939,8726
-370,,,"Active infection, No Pre-existing condition",1 in ,,,93,chance,1939,42250
-371,,,"Active infection, with Pre-existing condition",1 in ,,,93,chance,1939,2250
-372,,,"No infection, No Pre-existing Condition",1 in ,,,94,chance,1939,3099
-373,,,"No infection, Pre-existing Condition",1 in ,,,94,chance,1939,2547
-374,,,"Active infection, No Pre-existing condition",1 in ,,,94,chance,1939,366293
-375,,,"Active infection, with Pre-existing condition",1 in ,,,94,chance,1939,12306
-376,,,"No infection, No Pre-existing Condition",1 in ,,,95,chance,1939,16033
-377,,,"No infection, Pre-existing Condition",1 in ,,,95,chance,1939,3091
-378,,,"Active infection, No Pre-existing condition",1 in ,,,95,chance,1940,4238
-379,,,"Active infection, with Pre-existing condition",1 in ,,,95,chance,1940,6586
-380,,,"No infection, No Pre-existing Condition",1 in ,,,96,chance,1940,2996
-381,,,"No infection, Pre-existing Condition",1 in ,,,96,chance,1940,2071
-382,,,"Active infection, No Pre-existing condition",1 in ,,,96,chance,1940,2390
-383,,,"Active infection, with Pre-existing condition",1 in ,,,96,chance,1940,3176
-384,,,"No infection, No Pre-existing Condition",1 in ,,,97,chance,1939,3452
-385,,,"No infection, Pre-existing Condition",1 in ,,,97,chance,1940,2128
-386,,,"Active infection, No Pre-existing condition",1 in ,,,97,chance,1940,2298
-387,,,"Active infection, with Pre-existing condition",1 in ,,,97,chance,1940,2565
-388,,,"No infection, No Pre-existing Condition",1 in ,,,98,chance,1940,2161
-389,,,"No infection, Pre-existing Condition",1 in ,,,98,chance,1940,86795
-390,,,"Active infection, No Pre-existing condition",1 in ,,,98,chance,1940,17890
-391,,,"Active infection, with Pre-existing condition",1 in ,,,98,chance,1940,2935
-392,,,"No infection, No Pre-existing Condition",1 in ,,,99,chance,1940,5009
-393,,,"No infection, Pre-existing Condition",1 in ,,,99,chance,1940,84612
-394,,,"Active infection, No Pre-existing condition",1 in ,,,99,chance,1940,197381
-395,,,"Active infection, with Pre-existing condition",1 in ,,,99,chance,1940,3336
-396,,,"No infection, No Pre-existing Condition",1 in ,,,100,chance,1940,52288
-397,,,"No infection, Pre-existing Condition",1 in ,,,100,chance,1940,2909
-398,,,"Active infection, No Pre-existing condition",1 in ,,,100,chance,1940,3481
-399,,,"Active infection, with Pre-existing condition",1 in ,,,100,chance,1940,2188
-400,,,"No infection, No Pre-existing Condition",1 in ,,,101,chance,1940,2903
-401,,,"No infection, Pre-existing Condition",1 in ,,,101,chance,1940,3096
-402,,,"Active infection, No Pre-existing condition",1 in ,,,101,chance,1940,11410
-403,,,"Active infection, with Pre-existing condition",1 in ,,,101,chance,1940,3794
-404,,,"No infection, No Pre-existing Condition",1 in ,,,102,chance,1940,9067
-405,,,"No infection, Pre-existing Condition",1 in ,,,102,chance,1940,4406
-406,,,"Active infection, No Pre-existing condition",1 in ,,,102,chance,1940,3395
-407,,,"Active infection, with Pre-existing condition",1 in ,,,102,chance,1940,2508
-408,,,"No infection, No Pre-existing Condition",1 in ,,,103,chance,1940,4412
-409,,,"No infection, Pre-existing Condition",1 in ,,,103,chance,1940,3200
-410,,,"Active infection, No Pre-existing condition",1 in ,,,103,chance,1940,2280
-411,,,"Active infection, with Pre-existing condition",1 in ,,,103,chance,1940,62135
-412,,,"No infection, No Pre-existing Condition",1 in ,,,104,chance,1940,127618
-413,,,"No infection, Pre-existing Condition",1 in ,,,104,chance,1940,119307
-414,,,"Active infection, No Pre-existing condition",1 in ,,,104,chance,1940,4389
-415,,,"Active infection, with Pre-existing condition",1 in ,,,104,chance,1940,2823
-416,,,"No infection, No Pre-existing Condition",1 in ,,,105,chance,1940,3471
-417,,,"No infection, Pre-existing Condition",1 in ,,,105,chance,1940,3210
-418,,,"Active infection, No Pre-existing condition",1 in ,,,105,chance,1940,2447
-419,,,"Active infection, with Pre-existing condition",1 in ,,,105,chance,1940,8962
-420,,,"No infection, No Pre-existing Condition",1 in ,,,106,chance,1940,26822
-421,,,"No infection, Pre-existing Condition",1 in ,,,106,chance,1940,2174
-422,,,"Active infection, No Pre-existing condition",1 in ,,,106,chance,1940,3522
-423,,,"Active infection, with Pre-existing condition",1 in ,,,106,chance,1940,6998
-424,,,"No infection, No Pre-existing Condition",1 in ,,,107,chance,1940,11656
-425,,,"No infection, Pre-existing Condition",1 in ,,,107,chance,1940,2163
-426,,,"Active infection, No Pre-existing condition",1 in ,,,107,chance,1940,8727
-427,,,"Active infection, with Pre-existing condition",1 in ,,,107,chance,1940,4987
-428,,,"No infection, No Pre-existing Condition",1 in ,,,108,chance,1941,10525
-429,,,"No infection, Pre-existing Condition",1 in ,,,108,chance,1941,4653
-430,,,"Active infection, No Pre-existing condition",1 in ,,,108,chance,1941,2293
-431,,,"Active infection, with Pre-existing condition",1 in ,,,108,chance,1941,2922
-432,,,"No infection, No Pre-existing Condition",1 in ,,,109,chance,1941,3894
-433,,,"No infection, Pre-existing Condition",1 in ,,,109,chance,1941,389322
-434,,,"Active infection, No Pre-existing condition",1 in ,,,109,chance,1941,4508
-435,,,"Active infection, with Pre-existing condition",1 in ,,,109,chance,1941,3587
-436,,,"No infection, No Pre-existing Condition",1 in ,,,110,chance,1941,8097
-437,,,"No infection, Pre-existing Condition",1 in ,,,110,chance,1941,116855
-438,,,"Active infection, No Pre-existing condition",1 in ,,,110,chance,1941,5750
-439,,,"Active infection, with Pre-existing condition",1 in ,,,110,chance,1941,3336
-440,,,"No infection, No Pre-existing Condition",1 in ,,,111,chance,1941,2685
-441,,,"No infection, Pre-existing Condition",1 in ,,,111,chance,1941,5736
-442,,,"Active infection, No Pre-existing condition",1 in ,,,111,chance,1941,14722
-443,,,"Active infection, with Pre-existing condition",1 in ,,,111,chance,1941,3366
-444,,,"No infection, No Pre-existing Condition",1 in ,,,112,chance,1941,20806
-445,,,"No infection, Pre-existing Condition",1 in ,,,112,chance,1941,3918
-446,,,"Active infection, No Pre-existing condition",1 in ,,,112,chance,1941,2831
-447,,,"Active infection, with Pre-existing condition",1 in ,,,112,chance,1941,2631
-448,,,"No infection, No Pre-existing Condition",1 in ,,,113,chance,1941,18638
-449,,,"No infection, Pre-existing Condition",1 in ,,,113,chance,1941,10092
-450,,,"Active infection, No Pre-existing condition",1 in ,,,113,chance,1941,2632
-451,,,"Active infection, with Pre-existing condition",1 in ,,,113,chance,1941,146815
-452,,,"No infection, No Pre-existing Condition",1 in ,,,114,chance,1941,4682
-453,,,"No infection, Pre-existing Condition",1 in ,,,114,chance,1942,6594
-454,,,"Active infection, No Pre-existing condition",1 in ,,,114,chance,1941,11800
-455,,,"Active infection, with Pre-existing condition",1 in ,,,114,chance,1941,9101
-456,,,"No infection, No Pre-existing Condition",1 in ,,,115,chance,1941,2108
-457,,,"No infection, Pre-existing Condition",1 in ,,,115,chance,1941,6126
-458,,,"Active infection, No Pre-existing condition",1 in ,,,115,chance,1941,2612
-459,,,"Active infection, with Pre-existing condition",1 in ,,,115,chance,1941,2860
-460,,,"No infection, No Pre-existing Condition",1 in ,,,116,chance,1941,3207
-461,,,"No infection, Pre-existing Condition",1 in ,,,116,chance,1941,15009
-462,,,"Active infection, No Pre-existing condition",1 in ,,,116,chance,1941,5239
-463,,,"Active infection, with Pre-existing condition",1 in ,,,116,chance,1941,2475
-464,,,"No infection, No Pre-existing Condition",1 in ,,,117,chance,1941,3166
-465,,,"No infection, Pre-existing Condition",1 in ,,,117,chance,1941,23436
-466,,,"Active infection, No Pre-existing condition",1 in ,,,117,chance,1941,31663
-467,,,"Active infection, with Pre-existing condition",1 in ,,,117,chance,1941,2711
-468,,,"No infection, No Pre-existing Condition",1 in ,,,118,chance,1941,3917
-469,,,"No infection, Pre-existing Condition",1 in ,,,118,chance,1941,2206
-470,,,"Active infection, No Pre-existing condition",1 in ,,,118,chance,1941,5669
-471,,,"Active infection, with Pre-existing condition",1 in ,,,118,chance,1941,2559
-472,,,"No infection, No Pre-existing Condition",1 in ,,,119,chance,1941,2336
-473,,,"No infection, Pre-existing Condition",1 in ,,,119,chance,1941,23071
-474,,,"Active infection, No Pre-existing condition",1 in ,,,119,chance,1941,2699
-475,,,"Active infection, with Pre-existing condition",1 in ,,,119,chance,1941,2180
-476,,,"No infection, No Pre-existing Condition",1 in ,,,120,chance,1941,2461
+0,,L'Inferno,"No infection, No Pre-existing Condition",1 in ,"Adventure, Drama, Fantasy",1000000,1,chance,0.0001%,2237
+1,,Cabiria,"No infection, Pre-existing Condition",1 in ,"Adventure, Drama, History",333333.33,1,chance,0.0003%,3073
+2,,Tillie's Punctured Romance,"Active infection, No Pre-existing condition",1 in ,Comedy,142857.14,1,chance,0.0007%,3250
+3,,Nascita di una nazione,"Active infection, with Pre-existing condition",1 in ,"Drama, History, War",32258,1,chance,0.0031%,22213
+4,,The Cheat,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance",1000000,2,chance,0.000001,2305
+5,,I vampiri,"No infection, Pre-existing Condition",1 in ,"Action, Adventure, Crime",333333,2,chance,0.000003,4166
+6,,Intolerance,"Active infection, No Pre-existing condition",1 in ,"Drama, History",142857,2,chance,0.000007,13875
+7,,Charlot soldato,"Active infection, with Pre-existing condition",1 in ,"Comedy, War",32258,2,chance,0.000031,5895
+8,,Giglio infranto,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance",1000000,3,chance,0.000001,9241
+9,,Il gabinetto del dottor Caligari,"No infection, Pre-existing Condition",1 in ,"Fantasy, Horror, Mystery",333333,3,chance,0.000003,55601
+10,,Dr. Jekyll e Mr. Hyde,"Active infection, No Pre-existing condition",1 in ,"Drama, Horror, Sci-Fi",142857,3,chance,0.000007,4753
+11,,Il Golem - Come venne al mondo,"Active infection, with Pre-existing condition",1 in ,"Fantasy, Horror",32258,3,chance,0.000031,6577
+12,,Il segno di Zorro,"No infection, No Pre-existing Condition",1 in ,"Adventure, Romance, Western",1000000,4,chance,0.000001,2145
+13,,Agonia sui ghiacci,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",333333,4,chance,0.000003,4961
+14,,Within Our Gates,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",142857,4,chance,0.000007,2465
+15,,I quattro cavalieri dell'Apocalisse,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance, War",32258,4,chance,0.000031,3058
+16,,Il monello,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, Family",1000000,5,chance,0.000001,109038
+17,,Il carrettiere della morte,"No infection, Pre-existing Condition",1 in ,"Drama, Fantasy, Horror",333333,5,chance,0.000003,10054
+18,,Destino,"Active infection, No Pre-existing condition",1 in ,"Drama, Fantasy, Thriller",142857,5,chance,0.000007,5136
+19,,Le due orfanelle,"Active infection, with Pre-existing condition",1 in ,"Drama, History, Romance",32258,5,chance,0.000031,4678
+20,,Lo sceicco,"No infection, No Pre-existing Condition",1 in ,"Adventure, Drama, Romance",1000000,6,chance,0.000001,3055
+21,,L'età di amare,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",333333,6,chance,0.000003,2216
+22,,Femmine folli,"Active infection, No Pre-existing condition",1 in ,"Drama, Thriller",142857,6,chance,0.000007,3072
+23,,Nosferatu - Il vampiro,"Active infection, with Pre-existing condition",1 in ,"Fantasy, Horror",32258,6,chance,0.000031,86620
+24,,Il gobbo di Notre Dame,"No infection, No Pre-existing Condition",1 in ,"Drama, Horror, Romance",1000000,7,chance,0.000001,4711
+25,,Accidenti che ospitalità!,"No infection, Pre-existing Condition",1 in ,"Comedy, Romance, Thriller",333333,7,chance,0.000003,9902
+26,,Il pellegrino,"Active infection, No Pre-existing condition",1 in ,Comedy,142857,7,chance,0.000007,4261
+27,,Preferisco l'ascensore,"Active infection, with Pre-existing condition",1 in ,"Action, Comedy, Thriller",32258,7,chance,0.000031,17795
+28,,"Senti, amore mio","No infection, No Pre-existing Condition",1 in ,Comedy,1000000,8,chance,0.000001,3949
+29,,La donna di Parigi,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",333333,8,chance,0.000003,4735
+30,,Aelita,"Active infection, No Pre-existing condition",1 in ,"Adventure, Comedy, Drama",142857,8,chance,0.000007,2303
+31,,Tutte e nessuna,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",32258,8,chance,0.000031,3024
+32,,Quello che prende gli schiaffi,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance, Thriller",1000000,9,chance,0.000001,3044
+33,,L'ultima risata,"No infection, Pre-existing Condition",1 in ,Drama,333333,9,chance,0.000003,12157
+34,,Il navigatore,"Active infection, No Pre-existing condition",1 in ,"Action, Comedy, Romance",142857,9,chance,0.000007,8853
+35,,I Nibelunghi: La vendetta di Crimilde,"Active infection, with Pre-existing condition",1 in ,"Adventure, Drama, Fantasy",32258,9,chance,0.000031,3860
+36,,I Nibelunghi: Sigfrido,"No infection, No Pre-existing Condition",1 in ,"Adventure, Drama, Fantasy",1000000,10,chance,0.000001,5082
+37,,Orlacs Hände,"No infection, Pre-existing Condition",1 in ,"Crime, Horror, Mystery",333333,10,chance,0.000003,2263
+38,,La palla n° 13,"Active infection, No Pre-existing condition",1 in ,"Action, Comedy, Romance",142857,10,chance,0.000007,39634
+39,,Sciopero,"Active infection, with Pre-existing condition",1 in ,Drama,32258,10,chance,0.000031,6877
+40,,Il ladro di Bagdad,"No infection, No Pre-existing Condition",1 in ,"Adventure, Family, Fantasy",1000000,11,chance,0.000001,5460
+41,,Le avventure del principe Achmed,"No infection, Pre-existing Condition",1 in ,"Animation, Adventure, Family",333333,11,chance,0.000003,5253
+42,,La grande parata,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance, War",142857,11,chance,0.000007,6096
+43,,La corazzata Potemkin,"Active infection, with Pre-existing condition",1 in ,"Drama, History, Thriller",32258,11,chance,0.000031,51775
+44,,Viva lo sport,"No infection, No Pre-existing Condition",1 in ,"Comedy, Family, Romance",1000000,12,chance,0.000001,4882
+45,,Io e la vacca,"No infection, Pre-existing Condition",1 in ,"Comedy, Western",333333,12,chance,0.000003,3710
+46,,La febbre dell'oro,"Active infection, No Pre-existing condition",1 in ,"Adventure, Comedy, Drama",142857,12,chance,0.000007,97480
+47,,Rapacità,"Active infection, with Pre-existing condition",1 in ,"Drama, Thriller, Western",32258,12,chance,0.000031,8898
+48,,Un mondo perduto,"No infection, No Pre-existing Condition",1 in ,"Adventure, Fantasy, Thriller",1000000,13,chance,0.000001,4513
+49,,La vedova allegra,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",333333,13,chance,0.000003,2126
+50,,Il fantasma dell'opera,"Active infection, No Pre-existing condition",1 in ,Horror,142857,13,chance,0.000007,16255
+51,,Il labirinto delle passioni,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance",32258,13,chance,0.000031,2111
+52,,Le sette probabilità,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",1000000,14,chance,0.000001,8943
+53,,Se perdo la pazienza...,"No infection, Pre-existing Condition",1 in ,"Action, Comedy, Romance",333333,14,chance,0.000003,2820
+54,,Faust,"Active infection, No Pre-existing condition",1 in ,"Drama, Fantasy, Horror",142857,14,chance,0.000007,13588
+55,,La carne e il diavolo,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance",32258,14,chance,0.000031,3901
+56,,Una pagina di follia,"No infection, No Pre-existing Condition",1 in ,"Drama, Thriller",1000000,15,chance,0.000001,2758
+57,,Il pensionante,"No infection, Pre-existing Condition",1 in ,"Crime, Drama, Mystery",333333,15,chance,0.000003,10024
+58,,La madre,"Active infection, No Pre-existing condition",1 in ,Drama,142857,15,chance,0.000007,2442
+59,,Metropolis,"Active infection, with Pre-existing condition",1 in ,"Drama, Sci-Fi",32258,15,chance,0.000031,156076
+60,,Il castello degli spettri,"No infection, No Pre-existing Condition",1 in ,"Comedy, Horror, Mystery",1000000,16,chance,0.000001,2654
+61,,Tuo per sempre,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Sport",333333,16,chance,0.000003,4268
+62,,Il declino,"Active infection, No Pre-existing condition",1 in ,"Adventure, Drama, Thriller",142857,16,chance,0.000007,2082
+63,,Fragile virtù,"Active infection, with Pre-existing condition",1 in ,"Romance, Thriller",32258,16,chance,0.000031,2465
+64,,Come vinsi la guerra,"No infection, No Pre-existing Condition",1 in ,"Action, Adventure, Comedy",1000000,17,chance,0.000001,78769
+65,,Cosetta,"No infection, Pre-existing Condition",1 in ,"Comedy, Romance",333333,17,chance,0.000003,2912
+66,,Il cantante di jazz,"Active infection, No Pre-existing condition",1 in ,"Drama, Music, Musical",142857,17,chance,0.000007,8866
+67,,Il fratello minore,"Active infection, with Pre-existing condition",1 in ,"Comedy, Drama, Family",32258,17,chance,0.000031,3747
+68,,Napoleone,"No infection, No Pre-existing Condition",1 in ,"Biography, Drama, History",1000000,18,chance,0.000001,6864
+69,,Ottobre!,"No infection, Pre-existing Condition",1 in ,"Drama, History",333333,18,chance,0.000003,6877
+70,,Vinci per me!,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance, Sport",142857,18,chance,0.000007,3088
+71,,Settimo cielo,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance",32258,18,chance,0.000031,3098
+72,,Aurora,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance",1000000,19,chance,0.000001,46069
+73,,Le notti di Chicago,"No infection, Pre-existing Condition",1 in ,"Crime, Drama, Film-Noir",333333,19,chance,0.000003,2545
+74,,Lo sconosciuto,"Active infection, No Pre-existing condition",1 in ,"Drama, Horror, Romance",142857,19,chance,0.000007,6992
+75,,Ali,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance, War",32258,19,chance,0.000031,11139
+76,,Il vaso di Pandora,"No infection, No Pre-existing Condition",1 in ,"Crime, Drama, Romance",Georg Wilhelm Pabst,20,chance,1929,9541
+77,,Il cameraman,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Family","Edward Sedgwick, Buster Keaton",20,chance,1928,10101
+78,,La caduta della casa Usher,"Active infection, No Pre-existing condition",1 in ,Horror,Jean Epstein,20,chance,1928,3369
+79,,Il circo,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",Charles Chaplin,20,chance,1928,27414
+80,,I dannati dell'oceano,"No infection, No Pre-existing Condition",1 in ,"Crime, Drama, Film-Noir",Josef von Sternberg,21,chance,1928,3860
+81,,La moglie del fattore,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Alfred Hitchcock,21,chance,1928,2434
+82,,Crepuscolo di gloria,"Active infection, No Pre-existing condition",1 in ,"Drama, History, Romance",Josef von Sternberg,21,chance,1928,3282
+83,,L'uomo che ride,"Active infection, with Pre-existing condition",1 in ,"Drama, Horror, Mystery",Paul Leni,21,chance,1928,5711
+84,,La passione di Giovanna d'Arco,"No infection, No Pre-existing Condition",1 in ,"Biography, Drama, History",Carl Theodor Dreyer,22,chance,1928,45823
+85,,Fascino biondo,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Romance",King Vidor,22,chance,1928,2330
+86,,Tristana e la maschera,"Active infection, No Pre-existing condition",1 in ,Drama,Raoul Walsh,22,chance,1928,2519
+87,,Maschere di celluloide,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",King Vidor,22,chance,1928,3458
+88,,A rotta di collo,"No infection, No Pre-existing Condition",1 in ,"Action, Comedy, Family",Ted Wilde,23,chance,1928,3178
+89,,L'inafferrabile,"No infection, Pre-existing Condition",1 in ,"Romance, Thriller",Fritz Lang,23,chance,1928,3062
+90,,Io... e il ciclone,"Active infection, No Pre-existing condition",1 in ,"Action, Comedy, Drama","Charles Reisner, Buster Keaton",23,chance,1928,12809
+91,,L'angelo della strada,"Active infection, with Pre-existing condition",1 in ,Drama,Frank Borzage,23,chance,1928,2090
+92,,Il vento,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance, Thriller",Victor Sjöström,24,chance,1928,5980
+93,,Ricatto,"No infection, Pre-existing Condition",1 in ,"Crime, Thriller",Alfred Hitchcock,24,chance,1929,9412
+94,,La canzone di Broadway,"Active infection, No Pre-existing condition",1 in ,"Drama, Musical, Romance",Harry Beaumont,24,chance,1929,6327
+95,,The Cocoanuts,"Active infection, with Pre-existing condition",1 in ,"Comedy, Musical","Robert Florey, Joseph Santley",24,chance,1929,6900
+96,,Una donna nella luna,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Fritz Lang,25,chance,1929,2899
+97,,L'isola del peccato,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",Alfred Hitchcock,25,chance,1929,2555
+98,,Uomini di domenica,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama, Romance","Robert Siodmak, Edgar G. Ulmer",25,chance,1930,2649
+99,,La regina Kelly,"Active infection, with Pre-existing condition",1 in ,Drama,"Erich von Stroheim, Richard Boleslawski",25,chance,1932,3049
+100,,Il diario di una donna perduta,"No infection, No Pre-existing Condition",1 in ,Drama,Georg Wilhelm Pabst,26,chance,1929,3996
+101,,All'ovest niente di nuovo,"No infection, Pre-existing Condition",1 in ,"Drama, War",Lewis Milestone,26,chance,1930,56356
+102,,Animal Crackers,"Active infection, No Pre-existing condition",1 in ,"Comedy, Musical",Victor Heerman,26,chance,1930,13341
+103,,Anna Christie,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance",Clarence Brown,26,chance,1930,2760
+104,,Il grande sentiero,"No infection, No Pre-existing Condition",1 in ,"Adventure, Western, Romance","Raoul Walsh, Louis R. Loeffler",27,chance,1930,3312
+105,,L'angelo azzurro,"No infection, Pre-existing Condition",1 in ,"Drama, Music",Josef von Sternberg,27,chance,1930,13311
+106,,Il nostro pane quotidiano,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",F.W. Murnau,27,chance,1930,2842
+107,,La divorziata,"Active infection, with Pre-existing condition",1 in ,"Romance, Drama",Robert Z. Leonard,27,chance,1930,2705
+108,,Gli angeli dell'inferno,"No infection, No Pre-existing Condition",1 in ,"Drama, War","Howard Hughes, Edmund Goulding",28,chance,1930,4748
+109,,Piccolo Cesare,"No infection, Pre-existing Condition",1 in ,"Action, Crime, Drama",Mervyn LeRoy,28,chance,1931,11746
+110,,Marocco,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",Josef von Sternberg,28,chance,1930,5443
+111,,Omicidio!,"Active infection, with Pre-existing condition",1 in ,"Crime, Mystery, Thriller",Alfred Hitchcock,28,chance,1930,5651
+112,,Le sang d'un poète,"No infection, No Pre-existing Condition",1 in ,Fantasy,Jean Cocteau,29,chance,1930,5834
+113,,La terra,"No infection, Pre-existing Condition",1 in ,Drama,Aleksandr Dovzhenko,29,chance,1930,4949
+114,,L'âge d'or,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama",Luis Buñuel,29,chance,1930,12551
+115,,Il campione,"Active infection, with Pre-existing condition",1 in ,"Drama, Sport",King Vidor,29,chance,1931,2741
+116,,La cagna,"No infection, No Pre-existing Condition",1 in ,"Crime, Drama",Jean Renoir,30,chance,1931,3628
+117,,I pionieri del West,"No infection, Pre-existing Condition",1 in ,"Drama, Western",Wesley Ruggles,30,chance,1931,5304
+118,,Luci della città,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama, Romance",Charles Chaplin,30,chance,1931,162668
+119,,Dracula,"Active infection, with Pre-existing condition",1 in ,"Drama, Fantasy, Horror","Tod Browning, Karl Freund",30,chance,1931,45054
+120,,Drácula,"No infection, No Pre-existing Condition",1 in ,"Drama, Fantasy, Horror","George Melford, Enrique Tovar Ávalos",31,chance,1931,3901
+121,,Frankenstein,"No infection, Pre-existing Condition",1 in ,"Drama, Horror, Romance",James Whale,31,chance,1931,63315
+122,,Io amo,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama, Romance",Clarence Brown,31,chance,1931,2225
+123,,The Front Page,"Active infection, with Pre-existing condition",1 in ,"Comedy, Crime, Drama",Lewis Milestone,31,chance,1931,2348
+124,,L'allegro tenente,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance, Musical",Ernst Lubitsch,32,chance,1931,3148
+125,,M - Il mostro di Düsseldorf,"No infection, Pre-existing Condition",1 in ,"Crime, Mystery, Thriller",Fritz Lang,32,chance,1931,139271
+126,,Il falcone maltese,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",Roy Del Ruth,32,chance,1931,2692
+127,,Il milione,"Active infection, with Pre-existing condition",1 in ,"Musical, Comedy",René Clair,32,chance,1931,3140
+128,,Monkey Business - Quattro folli in alto mare,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical",Norman Z. McLeod,33,chance,1931,11207
+129,,Ragazze in uniforme,"No infection, Pre-existing Condition",1 in ,"Drama, Romance","Leontine Sagan, Carl Froelich",33,chance,1931,2432
+130,,L'angelo bianco,"Active infection, No Pre-existing condition",1 in ,"Comedy, Crime, Drama",William A. Wellman,33,chance,1931,3212
+131,,Muraglie,"Active infection, with Pre-existing condition",1 in ,"Comedy, Crime, Drama",James Parrott,33,chance,1931,2143
+132,,La donna di platino,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",Frank Capra,34,chance,1931,2719
+133,,Nemico pubblico,"No infection, Pre-existing Condition",1 in ,"Crime, Drama",William A. Wellman,34,chance,1931,17299
+134,,Fiamma d'amore,"Active infection, No Pre-existing condition",1 in ,Drama,Alfred Hitchcock,34,chance,1931,2809
+135,,Tabù,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance, Adventure",F.W. Murnau,34,chance,1931,4879
+136,,La donna che non si deve amare,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance",James Whale,35,chance,1931,2406
+137,,A me la libertà,"No infection, Pre-existing Condition",1 in ,"Comedy, Musical",René Clair,35,chance,1931,4004
+138,,Venere bionda,"Active infection, No Pre-existing condition",1 in ,Drama,Josef von Sternberg,35,chance,1932,4255
+139,,Boudu salvato dalle acque,"Active infection, with Pre-existing condition",1 in ,Comedy,Jean Renoir,35,chance,1932,5046
+140,,Il dottor X,"No infection, No Pre-existing Condition",1 in ,"Comedy, Crime, Horror",Michael Curtiz,36,chance,1932,2739
+141,,Il dottor Jekyll,"No infection, Pre-existing Condition",1 in ,"Horror, Sci-Fi",Rouben Mamoulian,36,chance,1931,12225
+142,,Estasi,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",Gustav Machatý,36,chance,1933,2093
+143,,Addio alle armi,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance, War",Frank Borzage,36,chance,1932,4957
+144,,Freaks,"No infection, No Pre-existing Condition",1 in ,"Drama, Horror",Tod Browning,37,chance,1932,41173
+145,,Grand Hotel,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",Edmund Goulding,37,chance,1932,16927
+146,,I fratelli Marx al college,"Active infection, No Pre-existing condition",1 in ,"Comedy, Musical, Romance",Norman Z. McLeod,37,chance,1932,11594
+147,,Io sono un evaso,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",Mervyn LeRoy,37,chance,1932,11390
+148,,Amami stanotte,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical, Romance",Rouben Mamoulian,38,chance,1932,3497
+149,,The Mask of Fu Manchu,"No infection, Pre-existing Condition",1 in ,"Adventure, Horror, Sci-Fi","Charles Brabin, Charles Vidor",38,chance,1932,2960
+150,,Mata Hari,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama, Romance",George Fitzmaurice,38,chance,1931,3209
+151,,La pericolosa partita,"Active infection, with Pre-existing condition",1 in ,"Action, Adventure, Thriller","Irving Pichel, Ernest B. Schoedsack",38,chance,1932,10149
+152,,La mummia,"No infection, No Pre-existing Condition",1 in ,"Fantasy, Horror",Karl Freund,39,chance,1932,22728
+153,,Il dottor Miracolo,"No infection, Pre-existing Condition",1 in ,"Crime, Horror, Mystery",Robert Florey,39,chance,1932,3691
+154,,Numero diciassette,"Active infection, No Pre-existing condition",1 in ,"Crime, Mystery, Thriller",Alfred Hitchcock,39,chance,1932,4352
+155,,The Old Dark House,"Active infection, with Pre-existing condition",1 in ,"Comedy, Horror, Thriller",James Whale,39,chance,1932,8877
+156,,Un'ora d'amore,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical, Romance","George Cukor, Ernst Lubitsch",40,chance,1932,2078
+157,,Amanti senza domani,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Tay Garnett,40,chance,1932,3326
+158,,Pioggia,"Active infection, No Pre-existing condition",1 in ,Drama,Lewis Milestone,40,chance,1932,2318
+159,,Lo schiaffo,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance",Victor Fleming,40,chance,1932,3716
+160,,Red-Headed Woman,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",Jack Conway,41,chance,1932,2650
+161,,Ricco e bizzarro,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Alfred Hitchcock,41,chance,1931,3895
+162,,Scarface - Lo sfregiato,"Active infection, No Pre-existing condition",1 in ,"Action, Crime, Drama","Howard Hawks, Richard Rosson",41,chance,1932,24697
+163,,"Tarzan, l'uomo scimmia","Active infection, with Pre-existing condition",1 in ,"Action, Adventure, Romance",W.S. Van Dyke,41,chance,1932,6864
+164,,Il testamento del dottor Mabuse,"No infection, No Pre-existing Condition",1 in ,"Crime, Horror, Mystery",Fritz Lang,42,chance,1933,11162
+165,,Three on a Match,"No infection, Pre-existing Condition",1 in ,"Crime, Drama, Romance",Mervyn LeRoy,42,chance,1932,3280
+166,,Mancia competente,"Active infection, No Pre-existing condition",1 in ,"Comedy, Crime, Romance",Ernst Lubitsch,42,chance,1932,12531
+167,,"Sono nato, ma...","Active infection, with Pre-existing condition",1 in ,"Comedy, Drama",Yasujirô Ozu,42,chance,1932,4781
+168,,Vampyr,"No infection, No Pre-existing Condition",1 in ,"Fantasy, Horror",Carl Theodor Dreyer,43,chance,1932,15250
+169,,A che prezzo Hollywood?,"No infection, Pre-existing Condition",1 in ,Drama,George Cukor,43,chance,1932,2110
+170,,L'isola degli zombies,"Active infection, No Pre-existing condition",1 in ,Horror,Victor Halperin,43,chance,1932,9031
+171,,20.000 anni a Sing Sing,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",Michael Curtiz,43,chance,1932,2345
+172,,Baby Face,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance",Alfred E. Green,44,chance,1933,6055
+173,,L'amaro tè del generale Yen,"No infection, Pre-existing Condition",1 in ,"Drama, Romance, War",Frank Capra,44,chance,1932,3403
+174,,Argento vivo,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama, Romance",Victor Fleming,44,chance,1933,2247
+175,,Cavalcata,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance, War",Frank Lloyd,44,chance,1933,4442
+176,,Partita a quattro,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",Ernst Lubitsch,45,chance,1933,5548
+177,,La guerra lampo dei Fratelli Marx,"No infection, Pre-existing Condition",1 in ,"Comedy, Musical, War",Leo McCarey,45,chance,1933,54717
+178,,Carioca,"Active infection, No Pre-existing condition",1 in ,"Comedy, Musical, Romance",Thornton Freeland,45,chance,1933,3275
+179,,Viva le donne,"Active infection, with Pre-existing condition",1 in ,"Comedy, Musical, Romance",Lloyd Bacon,45,chance,1933,4716
+180,,42a strada,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical, Romance",Lloyd Bacon,46,chance,1933,10490
+181,,The Ghoul,"No infection, Pre-existing Condition",1 in ,"Action, Drama, Horror",T. Hayes Hunter,46,chance,1933,2181
+182,,Non sono un angelo,"Active infection, No Pre-existing condition",1 in ,"Comedy, Musical, Romance",Wesley Ruggles,46,chance,1933,2837
+183,,L'uomo invisibile,"Active infection, with Pre-existing condition",1 in ,"Horror, Sci-Fi",James Whale,46,chance,1933,29291
+184,,L'isola delle anime perdute,"No infection, No Pre-existing Condition",1 in ,"Horror, Sci-Fi",Erle C. Kenton,47,chance,1932,7933
+185,,Il pugnale cinese,"No infection, Pre-existing Condition",1 in ,"Crime, Mystery",Michael Curtiz,47,chance,1933,2972
+186,,King Kong,"Active infection, No Pre-existing condition",1 in ,"Adventure, Horror, Sci-Fi","Merian C. Cooper, Ernest B. Schoedsack",47,chance,1933,77507
+187,,Signora per un giorno,"Active infection, with Pre-existing condition",1 in ,"Comedy, Drama",Frank Capra,47,chance,1933,3709
+188,,Piccole donne,"No infection, No Pre-existing Condition",1 in ,"Drama, Family, Romance",George Cukor,48,chance,1933,6254
+189,,La gloria del mattino,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",Lowell Sherman,48,chance,1933,2589
+190,,La maschera di cera,"Active infection, No Pre-existing condition",1 in ,"Horror, Mystery, Thriller",Michael Curtiz,48,chance,1933,4509
+191,,Le sei mogli di Enrico VIII,"Active infection, with Pre-existing condition",1 in ,"Biography, Comedy, Drama",Alexander Korda,48,chance,1933,3598
+192,,Lady Lou - La donna fatale,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, History",Lowell Sherman,49,chance,1933,5256
+193,,The Son of Kong,"No infection, Pre-existing Condition",1 in ,"Adventure, Comedy",Ernest B. Schoedsack,49,chance,1933,3835
+194,,I figli del deserto,"Active infection, No Pre-existing condition",1 in ,Comedy,William A. Seiter,49,chance,1933,7655
+195,,Il vampiro,"Active infection, with Pre-existing condition",1 in ,"Drama, Horror, Mystery",Frank R. Strayer,49,chance,1933,2137
+196,,L'Atalante,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Jean Vigo,50,chance,1934,14140
+197,,Nel paese delle meraviglie,"No infection, Pre-existing Condition",1 in ,"Comedy, Family, Fantasy","Gus Meins, Charley Rogers",50,chance,1934,5901
+198,,The Black Cat,"Active infection, No Pre-existing condition",1 in ,"Adventure, Crime, Horror",Edgar G. Ulmer,50,chance,1934,9155
+199,,Cleopatra,"Active infection, with Pre-existing condition",1 in ,"Biography, Drama, History",Cecil B. DeMille,50,chance,1934,3331
+200,,Il conte di Montecristo,"No infection, No Pre-existing Condition",1 in ,"Action, Adventure, Drama",Rowland V. Lee,51,chance,1934,2399
+201,,Cerco il mio amore,"No infection, Pre-existing Condition",1 in ,"Comedy, Musical, Romance",Mark Sandrich,51,chance,1934,6797
+202,,Lo specchio della vita,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",John M. Stahl,51,chance,1934,4013
+203,,Accadde una notte,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",Frank Capra,51,chance,1934,91400
+204,,Che bel regalo,"No infection, No Pre-existing Condition",1 in ,Comedy,Norman Z. McLeod,52,chance,1934,4807
+205,,La pattuglia sperduta,"No infection, Pre-existing Condition",1 in ,"Adventure, War",John Ford,52,chance,1934,2942
+206,,L'uomo che sapeva troppo,"Active infection, No Pre-existing condition",1 in ,"Crime, Mystery, Thriller",Alfred Hitchcock,52,chance,1934,16558
+207,,Le due strade,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Romance","W.S. Van Dyke, George Cukor",52,chance,1934,3514
+208,,Maniac,"No infection, No Pre-existing Condition",1 in ,Horror,Dwain Esper,53,chance,1934,2100
+209,,La vedova allegra,"No infection, Pre-existing Condition",1 in ,"Comedy, Musical, Romance",Ernst Lubitsch,53,chance,1934,2498
+210,,Schiavo d'amore,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",John Cromwell,53,chance,1934,6194
+211,,L'imperatrice Caterina,"Active infection, with Pre-existing condition",1 in ,"Drama, History, Romance",Josef von Sternberg,53,chance,1934,5688
+212,,La primula rossa,"No infection, No Pre-existing Condition",1 in ,"Adventure, Drama",Harold Young,54,chance,1934,3759
+213,,Tarzan e la compagna,"No infection, Pre-existing Condition",1 in ,"Action, Adventure","Cedric Gibbons, James C. McKay",54,chance,1934,4704
+214,,L'uomo ombra,"Active infection, No Pre-existing condition",1 in ,"Comedy, Crime, Mystery",W.S. Van Dyke,54,chance,1934,25805
+215,,L'isola del tesoro,"Active infection, with Pre-existing condition",1 in ,"Adventure, Family",Victor Fleming,54,chance,1934,2340
+216,,Ventesimo secolo,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",Howard Hawks,55,chance,1934,5637
+217,,Storia di erbe fluttuanti,"No infection, Pre-existing Condition",1 in ,Drama,Yasujirô Ozu,55,chance,1934,2771
+218,,Il club dei 39,"Active infection, No Pre-existing condition",1 in ,"Mystery, Thriller",Alfred Hitchcock,55,chance,1935,50519
+219,,Primo amore,"Active infection, with Pre-existing condition",1 in ,"Comedy, Drama, Romance",George Stevens,55,chance,1935,3673
+220,,Anna Karenina,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance",Clarence Brown,56,chance,1935,4843
+221,,La moglie di Frankenstein,"No infection, Pre-existing Condition",1 in ,"Drama, Horror, Sci-Fi",James Whale,56,chance,1935,42196
+222,,Capitan Blood,"Active infection, No Pre-existing condition",1 in ,"Action, Adventure",Michael Curtiz,56,chance,1935,12731
+223,,Sui mari della Cina,"Active infection, with Pre-existing condition",1 in ,"Action, Drama, Adventure",Tay Garnett,56,chance,1935,2229
+224,,Paura d'amare,"No infection, No Pre-existing Condition",1 in ,Drama,Alfred E. Green,57,chance,1935,2761
+225,,Davide Copperfield,"No infection, Pre-existing Condition",1 in ,"Adventure, Drama, Romance",George Cukor,57,chance,1935,3670
+226,,Capriccio spagnolo,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama, Romance",Josef von Sternberg,57,chance,1935,2942
+227,,La pattuglia dei senza paura,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",William Keighley,57,chance,1935,3502
+228,,Donne di lusso 1935,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical",Busby Berkeley,58,chance,1935,2401
+229,,Il traditore,"No infection, Pre-existing Condition",1 in ,"Crime, Drama",John Ford,58,chance,1935,5571
+230,,I lancieri del Bengala,"Active infection, No Pre-existing condition",1 in ,"Adventure, Drama, War",Henry Hathaway,58,chance,1935,2548
+231,,Amore folle,"Active infection, with Pre-existing condition",1 in ,"Horror, Romance, Sci-Fi",Karl Freund,58,chance,1935,4339
+232,,I vampiri di Praga,"No infection, No Pre-existing Condition",1 in ,"Horror, Mystery",Tod Browning,59,chance,1935,4247
+233,,Il sogno di una notte di mezza estate,"No infection, Pre-existing Condition",1 in ,"Comedy, Fantasy, Romance","William Dieterle, Max Reinhardt",59,chance,1935,3094
+234,,Il sergente di ferro,"Active infection, No Pre-existing condition",1 in ,"Drama, History, Romance",Richard Boleslawski,59,chance,1935,3279
+235,,La tragedia del Bounty,"Active infection, with Pre-existing condition",1 in ,"Adventure, Biography, Drama",Frank Lloyd,59,chance,1935,20336
+236,,Una notte all'opera,"No infection, No Pre-existing Condition",1 in ,"Comedy, Music, Musical","Sam Wood, Edmund Goulding",60,chance,1935,30030
+237,,The Raven,"No infection, Pre-existing Condition",1 in ,"Crime, Horror",Lew Landers,60,chance,1935,4477
+238,,Roberta,"Active infection, No Pre-existing condition",1 in ,"Comedy, Musical, Romance",William A. Seiter,60,chance,1935,2860
+239,,Il maggiordomo,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",Leo McCarey,60,chance,1935,3587
+240,,Il diavolo è femmina,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, Romance",George Cukor,61,chance,1935,3544
+241,,Le due città,"No infection, Pre-existing Condition",1 in ,"Drama, History, Romance","Jack Conway, Robert Z. Leonard",61,chance,1935,5008
+242,,Cappello a cilindro,"Active infection, No Pre-existing condition",1 in ,"Comedy, Musical, Romance",Mark Sandrich,61,chance,1935,17004
+243,,Il segreto del Tibet,"Active infection, with Pre-existing condition",1 in ,"Drama, Fantasy, Horror",Stuart Walker,61,chance,1935,4745
+244,,Tutta la città ne parla,"No infection, No Pre-existing Condition",1 in ,"Comedy, Crime, Drama",John Ford,62,chance,1935,2281
+245,,Dopo l'uomo ombra,"No infection, Pre-existing Condition",1 in ,"Comedy, Crime, Mystery",W.S. Van Dyke,62,chance,1936,9231
+246,,Verso la vita,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama, Romance",Jean Renoir,62,chance,1936,2911
+247,,Legione nera,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Film-Noir","Archie Mayo, Michael Curtiz",62,chance,1937,2664
+248,,Le belve della città,"No infection, No Pre-existing Condition",1 in ,"Crime, Drama, Film-Noir",William Keighley,63,chance,1936,2618
+249,,La carica dei seicento,"No infection, Pre-existing Condition",1 in ,"Action, Adventure, Romance",Michael Curtiz,63,chance,1936,4441
+250,,Il delitto del signor Lange,"Active infection, No Pre-existing condition",1 in ,"Comedy, Crime, Drama",Jean Renoir,63,chance,1936,2886
+251,,Desiderio,"Active infection, with Pre-existing condition",1 in ,"Comedy, Crime, Romance",Frank Borzage,63,chance,1936,2078
+252,,La bambola del diavolo,"No infection, No Pre-existing Condition",1 in ,"Drama, Horror, Sci-Fi",Tod Browning,64,chance,1936,3654
+253,,Infedeltà,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",William Wyler,64,chance,1936,7944
+254,,La figlia di Dracula,"Active infection, No Pre-existing condition",1 in ,"Drama, Fantasy, Horror",Lambert Hillyer,64,chance,1936,5662
+255,,Flash Gordon,"Active infection, with Pre-existing condition",1 in ,"Action, Adventure, Sci-Fi","Frederick Stephani, Ray Taylor",64,chance,1936,2119
+256,,Seguendo la flotta,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical, Romance",Mark Sandrich,65,chance,1936,3878
+257,,Furia,"No infection, Pre-existing Condition",1 in ,"Crime, Drama, Film-Noir",Fritz Lang,65,chance,1936,11011
+258,,Le sorelle del Gion,"Active infection, No Pre-existing condition",1 in ,Drama,Kenji Mizoguchi,65,chance,1936,2358
+259,,Figlio unico,"Active infection, with Pre-existing condition",1 in ,Drama,Yasujirô Ozu,65,chance,1936,3047
+260,,Il raggio invisibile,"No infection, No Pre-existing Condition",1 in ,"Horror, Sci-Fi, Thriller",Lambert Hillyer,66,chance,1936,2172
+261,,La donna del giorno,"No infection, Pre-existing Condition",1 in ,"Comedy, Romance",Jack Conway,66,chance,1936,6848
+262,,Maria di Scozia,"Active infection, No Pre-existing condition",1 in ,"Biography, Drama, History","John Ford, Leslie Goodwins",66,chance,1936,2243
+263,,Tempi moderni,"Active infection, with Pre-existing condition",1 in ,"Comedy, Drama, Family",Charles Chaplin,66,chance,1936,211250
+264,,È arrivata la felicità,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Frank Capra,67,chance,1936,19316
+265,,L'impareggiabile Godfrey,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Gregory La Cava,67,chance,1936,20482
+266,,Allegri gemelli,"Active infection, No Pre-existing condition",1 in ,Comedy,Harry Lachman,67,chance,1936,2733
+267,,La foresta pietrificata,"Active infection, with Pre-existing condition",1 in ,"Drama, Film-Noir, Romance",Archie Mayo,67,chance,1936,12217
+268,,Sabotaggio,"No infection, No Pre-existing Condition",1 in ,"Crime, Thriller",Alfred Hitchcock,68,chance,1936,14481
+269,,San Francisco,"No infection, Pre-existing Condition",1 in ,"Drama, Musical, Romance",W.S. Van Dyke,68,chance,1936,4794
+270,,Amore e mistero,"Active infection, No Pre-existing condition",1 in ,"Mystery, Thriller",Alfred Hitchcock,68,chance,1936,7611
+271,,La canzone di Magnolia,"Active infection, with Pre-existing condition",1 in ,"Comedy, Drama, Musical",James Whale,68,chance,1936,2844
+272,,La vita del dottor Pasteur,"No infection, No Pre-existing Condition",1 in ,"Biography, Drama, History",William Dieterle,69,chance,1936,2224
+273,,Follie d'inverno,"No infection, Pre-existing Condition",1 in ,"Comedy, Musical, Romance",George Stevens,69,chance,1936,11998
+274,,La fuga di Tarzan,"Active infection, No Pre-existing condition",1 in ,"Action, Adventure","Richard Thorpe, John Farrow",69,chance,1936,3073
+275,,Tell Your Children,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama",Louis J. Gasnier,69,chance,1936,7696
+276,,La calunnia,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance",William Wyler,70,chance,1936,2252
+277,,La vita futura,"No infection, Pre-existing Condition",1 in ,"Drama, Sci-Fi, War",William Cameron Menzies,70,chance,1936,6959
+278,,L'ombra che cammina,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama, Horror",Michael Curtiz,70,chance,1936,2313
+279,,Gelosia,"Active infection, with Pre-existing condition",1 in ,"Comedy, Drama, Romance",Clarence Brown,70,chance,1936,2985
+280,,Angelo,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Ernst Lubitsch,71,chance,1937,2129
+281,,L'orribile verità,"No infection, Pre-existing Condition",1 in ,"Comedy, Romance",Leo McCarey,71,chance,1937,17167
+282,,Capitani coraggiosi,"Active infection, No Pre-existing condition",1 in ,"Adventure, Drama, Family",Victor Fleming,71,chance,1937,8515
+283,,Un giorno alle corse,"Active infection, with Pre-existing condition",1 in ,"Comedy, Musical, Sport",Sam Wood,71,chance,1937,12758
+284,,Strada sbarrata,"No infection, No Pre-existing Condition",1 in ,"Crime, Drama, Film-Noir",William Wyler,72,chance,1937,6224
+285,,Un colpo di fortuna,"No infection, Pre-existing Condition",1 in ,"Comedy, Romance",Mitchell Leisen,72,chance,1937,2946
+286,,La buona terra,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance","Sidney Franklin, Victor Fleming",72,chance,1937,4420
+287,,La grande illusione,"Active infection, with Pre-existing condition",1 in ,"Drama, War",Jean Renoir,72,chance,1937,33179
+288,,Zoccoletti olandesi,"No infection, No Pre-existing Condition",1 in ,"Drama, Family, Musical",Allan Dwan,73,chance,1937,4033
+289,,Uragano,"No infection, Pre-existing Condition",1 in ,"Action, Drama, Romance",John Ford,73,chance,1937,2262
+290,,L'uomo di bronzo,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama, Romance",Michael Curtiz,73,chance,1937,3040
+291,,Emilio Zola,"Active infection, with Pre-existing condition",1 in ,"Biography, Drama",William Dieterle,73,chance,1937,6915
+292,,Orizzonte perduto,"No infection, No Pre-existing Condition",1 in ,"Adventure, Drama, Fantasy",Frank Capra,74,chance,1937,11768
+293,,Le cinque schiave,"No infection, Pre-existing Condition",1 in ,"Crime, Film-Noir, Thriller","Lloyd Bacon, Michael Curtiz",74,chance,1937,3437
+294,,Le mie due mogli,"Active infection, No Pre-existing condition",1 in ,"Comedy, Romance",Garson Kanin,74,chance,1940,9008
+295,,Notturno tragico,"Active infection, with Pre-existing condition",1 in ,"Drama, Mystery, Thriller",Richard Thorpe,74,chance,1937,2127
+296,,Nulla sul serio,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, Fantasy",William A. Wellman,75,chance,1937,5841
+297,,Il principe e il povero,"No infection, Pre-existing Condition",1 in ,"Adventure, Drama, Family","William Keighley, William Dieterle",75,chance,1937,2276
+298,,Il prigioniero di Zenda,"Active infection, No Pre-existing condition",1 in ,"Adventure, Drama, Romance","John Cromwell, W.S. Van Dyke",75,chance,1937,4085
+299,,Il bandito della Casbah,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Romance",Julien Duvivier,75,chance,1937,6180
+300,,Voglio danzare con te,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical, Romance",Mark Sandrich,76,chance,1937,6414
+301,,Biancaneve e i sette nani,"No infection, Pre-existing Condition",1 in ,"Animation, Family, Fantasy","William Cottrell, David Hand",76,chance,1937,177157
+302,,È nata una stella,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance","William A. Wellman, Jack Conway",76,chance,1937,8448
+303,,Amore sublime,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance",King Vidor,76,chance,1937,4577
+304,,La via dell'impossibile,"No infection, No Pre-existing Condition",1 in ,"Comedy, Fantasy, Romance",Norman Z. McLeod,77,chance,1937,6621
+305,,Sono innocente,"No infection, Pre-existing Condition",1 in ,"Crime, Drama, Film-Noir",Fritz Lang,77,chance,1937,5562
+306,,Giovane e innocente,"Active infection, No Pre-existing condition",1 in ,"Crime, Mystery, Romance",Alfred Hitchcock,77,chance,1937,8433
+307,,La leggenda di Robin Hood,"Active infection, with Pre-existing condition",1 in ,"Action, Adventure, Romance","Michael Curtiz, William Keighley",77,chance,1938,46382
+308,,Alessandro Nevsky,"No infection, No Pre-existing Condition",1 in ,"Action, Biography, Drama","Sergei M. Eisenstein, Dmitriy Vasilev",78,chance,1938,10279
+309,,Un'americana nella casbah,"No infection, Pre-existing Condition",1 in ,"Drama, Mystery, Romance",John Cromwell,78,chance,1938,2407
+310,,Il sapore del delitto,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama",Anatole Litvak,78,chance,1938,2279
+311,,Gli angeli con la faccia sporca,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",Michael Curtiz,78,chance,1938,19434
+312,,Venti anni dopo,"No infection, No Pre-existing Condition",1 in ,"Comedy, War",John G. Blystone,79,chance,1938,3403
+313,,L'ottava moglie di Barbablu,"No infection, Pre-existing Condition",1 in ,"Comedy, Romance",Ernst Lubitsch,79,chance,1938,3156
+314,,La città dei ragazzi,"Active infection, No Pre-existing condition",1 in ,"Biography, Drama",Norman Taurog,79,chance,1938,5008
+315,,Susanna!,"Active infection, with Pre-existing condition",1 in ,"Comedy, Family, Romance",Howard Hawks,79,chance,1938,53931
+316,,L'angelo del male,"No infection, No Pre-existing Condition",1 in ,"Crime, Drama",Jean Renoir,80,chance,1938,6761
+317,,Girandola,"No infection, Pre-existing Condition",1 in ,"Comedy, Musical, Romance",Mark Sandrich,80,chance,1938,3293
+318,,A Christmas Carol,"Active infection, No Pre-existing condition",1 in ,"Drama, Family, Fantasy",Edwin L. Marin,80,chance,1938,5902
+319,,The Dawn Patrol,"Active infection, with Pre-existing condition",1 in ,"War, Drama",Edmund Goulding,80,chance,1938,2649
+320,,Incantesimo,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",George Cukor,81,chance,1938,13952
+321,,Albergo Nord,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",Marcel Carné,81,chance,1938,2163
+322,,Figlia del vento,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",William Wyler,81,chance,1938,11729
+323,,La signora scompare,"Active infection, with Pre-existing condition",1 in ,"Mystery, Thriller",Alfred Hitchcock,81,chance,1938,46159
+324,,Maria Antonietta,"No infection, No Pre-existing Condition",1 in ,"Biography, Drama, History","W.S. Van Dyke, Julien Duvivier",82,chance,1938,2641
+325,,Pigmalione,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Romance","Anthony Asquith, Leslie Howard",82,chance,1938,7696
+326,,Il porto delle nebbie,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama, Romance",Marcel Carné,82,chance,1938,8028
+327,,Servizio in camera,"Active infection, with Pre-existing condition",1 in ,Comedy,William A. Seiter,82,chance,1938,4682
+328,,Una donna vivace,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",George Stevens,83,chance,1938,3119
+329,,L'eterna illusione,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Frank Capra,83,chance,1938,22818
+330,,Le avventure di Sherlock Holmes,"Active infection, No Pre-existing condition",1 in ,"Crime, Mystery, Thriller",Alfred L. Werker,83,chance,1939,6132
+331,,Si riparla dell'uomo ombra,"Active infection, with Pre-existing condition",1 in ,"Comedy, Crime, Mystery",W.S. Van Dyke,83,chance,1939,6327
+332,,Tre pazzi a zonzo,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical",Edward Buzzell,84,chance,1939,5449
+333,,Ragazzi attori,"No infection, Pre-existing Condition",1 in ,"Comedy, Musical",Busby Berkeley,84,chance,1939,2256
+334,,Situazione imbarazzante,"Active infection, No Pre-existing condition",1 in ,"Comedy, Romance",Garson Kanin,84,chance,1939,3566
+335,,Beau Geste,"Active infection, with Pre-existing condition",1 in ,"Action, Adventure, Drama",William A. Wellman,84,chance,1939,5406
+336,,Il fantasma di mezzanotte,"No infection, No Pre-existing Condition",1 in ,"Comedy, Horror, Mystery",Elliott Nugent,85,chance,1939,2538
+337,,Tramonto,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",Edmund Goulding,85,chance,1939,9746
+338,,Partita d'azzardo,"Active infection, No Pre-existing condition",1 in ,"Comedy, Western",George Marshall,85,chance,1939,9914
+339,,Gli avventurieri,"Active infection, with Pre-existing condition",1 in ,"Action, Drama, Romance",Michael Curtiz,85,chance,1939,4596
+340,,La più grande avventura,"No infection, No Pre-existing Condition",1 in ,"Drama, History, Romance",John Ford,86,chance,1939,5542
+341,,Morire all'alba,"No infection, Pre-existing Condition",1 in ,"Crime, Drama, Film-Noir",William Keighley,86,chance,1939,2868
+342,,I diavoli volanti,"Active infection, No Pre-existing condition",1 in ,"Comedy, War",A. Edward Sutherland,86,chance,1939,4549
+343,,Le quattro piume,"Active infection, with Pre-existing condition",1 in ,"Adventure, Drama, Romance",Zoltan Korda,86,chance,1939,5376
+344,,Gaslight,"No infection, No Pre-existing Condition",1 in ,"Mystery, Thriller",Thorold Dickinson,87,chance,1940,3743
+345,,Via col vento,"No infection, Pre-existing Condition",1 in ,"Drama, History, Romance","Victor Fleming, George Cukor",87,chance,1939,283975
+346,,"Addio, mr. Chips!","Active infection, No Pre-existing condition",1 in ,"Drama, Romance","Sam Wood, Sidney Franklin",87,chance,1939,9551
+347,,I viaggi di Gulliver,"Active infection, with Pre-existing condition",1 in ,"Animation, Adventure, Comedy","Dave Fleischer, Willard Bowsky",87,chance,1939,3767
+348,,Gunga Din,"No infection, No Pre-existing Condition",1 in ,"Adventure, Comedy, War",George Stevens,88,chance,1939,10731
+349,,Il mastino dei Baskerville,"No infection, Pre-existing Condition",1 in ,"Horror, Mystery, Thriller",Sidney Lanfield,88,chance,1939,9222
+350,,Notre Dame,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",William Dieterle,88,chance,1939,10155
+351,,Non puoi impedirmi d'amare,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance",John Cromwell,88,chance,1939,2568
+352,,Intermezzo,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance",Gregory Ratoff,89,chance,1939,2216
+353,,Questo mondo è meraviglioso,"No infection, Pre-existing Condition",1 in ,"Comedy, Crime, Mystery",W.S. Van Dyke,89,chance,1939,2503
+354,,La taverna della Giamaica,"Active infection, No Pre-existing condition",1 in ,"Adventure, Crime",Alfred Hitchcock,89,chance,1939,8839
+355,,Jess il bandito,"Active infection, with Pre-existing condition",1 in ,"Biography, Crime, Drama","Henry King, Irving Cummings",89,chance,1939,3887
+356,,Alba tragica,"No infection, No Pre-existing Condition",1 in ,"Crime, Drama, Romance",Marcel Carné,90,chance,1939,6583
+357,,La piccola principessa,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama, Family","Walter Lang, William A. Seiter",90,chance,1939,5500
+358,,Un grande amore,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama, Romance",Leo McCarey,90,chance,1939,4262
+359,,Ritorna l'amore,"Active infection, with Pre-existing condition",1 in ,"Comedy, Drama, Romance",John Cromwell,90,chance,1939,3170
+360,,La signora di mezzanotte,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",Mitchell Leisen,91,chance,1939,4308
+361,,Mr. Smith va a Washington,"No infection, Pre-existing Condition",1 in ,"Comedy, Drama",Frank Capra,91,chance,1939,104547
+362,,Ninotchka,"Active infection, No Pre-existing condition",1 in ,"Comedy, Romance",Ernst Lubitsch,91,chance,1939,18470
+363,,Uomini e topi,"Active infection, with Pre-existing condition",1 in ,Drama,Lewis Milestone,91,chance,1939,5337
+364,,Il grande amore,"No infection, No Pre-existing Condition",1 in ,Drama,Edmund Goulding,92,chance,1939,3168
+365,,Avventurieri dell'aria,"No infection, Pre-existing Condition",1 in ,"Adventure, Drama, Romance",Howard Hawks,92,chance,1939,12164
+366,,Il conte di Essex,"Active infection, No Pre-existing condition",1 in ,"Biography, Drama, History",Michael Curtiz,92,chance,1939,4982
+367,,I ruggenti anni venti,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",Raoul Walsh,92,chance,1939,12461
+368,,La regola del gioco,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama",Jean Renoir,93,chance,1939,26110
+369,,Il figlio di Frankenstein,"No infection, Pre-existing Condition",1 in ,"Drama, Horror, Sci-Fi",Rowland V. Lee,93,chance,1939,8726
+370,,Ombre rosse,"Active infection, No Pre-existing condition",1 in ,"Adventure, Drama, Western",John Ford,93,chance,1939,42250
+371,,La vita di Vernon e Irene Castle,"Active infection, with Pre-existing condition",1 in ,"Biography, Drama, Musical",H.C. Potter,93,chance,1939,2250
+372,,Il figlio di Tarzan,"No infection, No Pre-existing Condition",1 in ,"Action, Adventure, Family",Richard Thorpe,94,chance,1939,3099
+373,,La via dei giganti,"No infection, Pre-existing Condition",1 in ,"Drama, Western",Cecil B. DeMille,94,chance,1939,2547
+374,,Il mago di Oz,"Active infection, No Pre-existing condition",1 in ,"Adventure, Family, Fantasy","Victor Fleming, George Cukor",94,chance,1939,366293
+375,,Donne,"Active infection, with Pre-existing condition",1 in ,"Comedy, Drama",George Cukor,94,chance,1939,12306
+376,,Cime tempestose,"No infection, No Pre-existing Condition",1 in ,"Drama, Romance",William Wyler,95,chance,1939,16033
+377,,La storia dell'ultimo crisantemo,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",Kenji Mizoguchi,95,chance,1939,3091
+378,,Paradiso proibito,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",Anatole Litvak,95,chance,1940,4238
+379,,Un comodo posto in banca,"Active infection, with Pre-existing condition",1 in ,Comedy,Edward F. Cline,95,chance,1940,6586
+380,,La febbre del petrolio,"No infection, No Pre-existing Condition",1 in ,"Adventure, Drama, Romance",Jack Conway,96,chance,1940,2996
+381,,Balla con me,"No infection, Pre-existing Condition",1 in ,Musical,Norman Taurog,96,chance,1940,2071
+382,,Il vendicatore,"Active infection, No Pre-existing condition",1 in ,"Comedy, Crime, Drama",Lloyd Bacon,96,chance,1940,2390
+383,,Un colpo di fortuna,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",Preston Sturges,96,chance,1940,3176
+384,,Noi siamo le colonne,"No infection, No Pre-existing Condition",1 in ,Comedy,Alfred J. Goulding,97,chance,1939,3452
+385,,La città del peccato,"No infection, Pre-existing Condition",1 in ,"Drama, Music, Sport","Anatole Litvak, Jean Negulesco",97,chance,1940,2128
+386,,La belva umana,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance, Western",Raoul Walsh,97,chance,1940,2298
+387,,Notti di terrore,"Active infection, with Pre-existing condition",1 in ,"Horror, Sci-Fi",Jean Yarbrough,97,chance,1940,2565
+388,,Il dottor Cyclops,"No infection, No Pre-existing Condition",1 in ,"Adventure, Drama, Horror",Ernest B. Schoedsack,98,chance,1940,2161
+389,,Fantasia,"No infection, Pre-existing Condition",1 in ,"Animation, Family, Fantasy","James Algar, Samuel Armstrong",98,chance,1940,86795
+390,,Il prigioniero di Amsterdam,"Active infection, No Pre-existing condition",1 in ,"Action, Romance, Thriller",Alfred Hitchcock,98,chance,1940,17890
+391,,La donna e lo spettro,"Active infection, with Pre-existing condition",1 in ,"Comedy, Horror, Mystery",George Marshall,98,chance,1940,2935
+392,,I cowboys del deserto,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical, Western",Edward Buzzell,99,chance,1940,5009
+393,,Furore,"No infection, Pre-existing Condition",1 in ,"Drama, History",John Ford,99,chance,1940,84612
+394,,Il grande dittatore,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama, War",Charles Chaplin,99,chance,1940,197381
+395,,Il grande McGinty,"Active infection, with Pre-existing condition",1 in ,Comedy,Preston Sturges,99,chance,1940,3336
+396,,La signora del venerdì,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Howard Hawks,100,chance,1940,52288
+397,,Ti amo ancora,"No infection, Pre-existing Condition",1 in ,"Comedy, Romance",W.S. Van Dyke,100,chance,1940,2909
+398,,Il ritorno dell'uomo invisibile,"Active infection, No Pre-existing condition",1 in ,"Drama, Horror, Mystery",Joe May,100,chance,1940,3481
+399,,La donna invisibile,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance, Sci-Fi",A. Edward Sutherland,100,chance,1940,2188
+400,,Suss l'ebreo,"No infection, No Pre-existing Condition",1 in ,Drama,Veit Harlan,101,chance,1940,2903
+401,,"Kitty Foyle, ragazza innamorata","No infection, Pre-existing Condition",1 in ,"Drama, Romance",Sam Wood,101,chance,1940,3096
+402,,Ombre malesi,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",William Wyler,101,chance,1940,11410
+403,,Lungo viaggio di ritorno,"Active infection, with Pre-existing condition",1 in ,"Drama, War",John Ford,101,chance,1940,3794
+404,,Il segno di Zorro,"No infection, No Pre-existing Condition",1 in ,"Action, Adventure, Romance",Rouben Mamoulian,102,chance,1940,9067
+405,,Bufera mortale,"No infection, Pre-existing Condition",1 in ,Drama,Frank Borzage,102,chance,1940,4406
+406,,The Mummy's Hand,"Active infection, No Pre-existing condition",1 in ,"Adventure, Fantasy, Horror",Christy Cabanne,102,chance,1940,3395
+407,,My Little Chickadee,"Active infection, with Pre-existing condition",1 in ,"Comedy, Western",Edward F. Cline,102,chance,1940,2508
+408,,Night Train to Munich,"No infection, No Pre-existing Condition",1 in ,"Thriller, War",Carol Reed,103,chance,1940,4412
+409,,Passaggio a Nord-Ovest,"No infection, Pre-existing Condition",1 in ,"Adventure, Drama, History","King Vidor, Jack Conway",103,chance,1940,3200
+410,,La nostra città,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance",Sam Wood,103,chance,1940,2280
+411,,Scandalo a Filadelfia,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",George Cukor,103,chance,1940,62135
+412,,Pinocchio,"No infection, No Pre-existing Condition",1 in ,"Animation, Comedy, Family","Norman Ferguson, T. Hee",104,chance,1940,127618
+413,,Rebecca - La prima moglie,"No infection, Pre-existing Condition",1 in ,"Drama, Mystery, Romance",Alfred Hitchcock,104,chance,1940,119307
+414,,Ricorda quella notte,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama, Romance",Mitchell Leisen,104,chance,1940,4389
+415,,Il vendicatore di Jess il bandito,"Active infection, with Pre-existing condition",1 in ,"Crime, History, Western",Fritz Lang,104,chance,1940,2823
+416,,La danzatrice di Singapore,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical, Romance",Victor Schertzinger,105,chance,1940,3471
+417,,I pascoli dell'odio,"No infection, Pre-existing Condition",1 in ,"Adventure, Biography, Drama",Michael Curtiz,105,chance,1940,3210
+418,,C'era una volta un piccolo naviglio,"Active infection, No Pre-existing condition",1 in ,Comedy,Gordon Douglas,105,chance,1940,2447
+419,,Lo sparviero del mare,"Active infection, with Pre-existing condition",1 in ,"Action, Adventure, History",Michael Curtiz,105,chance,1940,8962
+420,,Scrivimi fermo posta,"No infection, No Pre-existing Condition",1 in ,"Comedy, Drama, Romance",Ernst Lubitsch,106,chance,1940,26822
+421,,L'isola del diavolo,"No infection, Pre-existing Condition",1 in ,"Adventure, Drama, Romance",Frank Borzage,106,chance,1940,2174
+422,,Lo sconosciuto del terzo piano,"Active infection, No Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",Boris Ingster,106,chance,1940,3522
+423,,Strada maestra,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",Raoul Walsh,106,chance,1940,6998
+424,,Il ladro di Bagdad,"No infection, No Pre-existing Condition",1 in ,"Adventure, Family, Fantasy","Ludwig Berger, Michael Powell",107,chance,1940,11656
+425,,Carovana d'eroi,"No infection, Pre-existing Condition",1 in ,"Action, Drama, History",Michael Curtiz,107,chance,1940,2163
+426,,Il ponte di Waterloo,"Active infection, No Pre-existing condition",1 in ,"Drama, Romance, War",Mervyn LeRoy,107,chance,1940,8727
+427,,L'uomo del West,"Active infection, with Pre-existing condition",1 in ,"Drama, Romance, Western",William Wyler,107,chance,1940,4987
+428,,Colpo di fulmine,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",Howard Hawks,108,chance,1941,10525
+429,,Il Bazar delle follie,"No infection, Pre-existing Condition",1 in ,"Comedy, Musical",Charles Reisner,108,chance,1941,4653
+430,,Sangue e arena,"Active infection, No Pre-existing condition",1 in ,"Drama, Sport",Rouben Mamoulian,108,chance,1941,2293
+431,,Sposa contro assegno,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",William Keighley,108,chance,1941,2922
+432,,Gianni e Pinotto reclute,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical, War",Arthur Lubin,109,chance,1941,3894
+433,,Quarto potere,"No infection, Pre-existing Condition",1 in ,"Drama, Mystery",Orson Welles,109,chance,1941,389322
+434,,L'oro del demonio,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama, Fantasy",William Dieterle,109,chance,1941,4508
+435,,Il diavolo si converte,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",Sam Wood,109,chance,1941,3587
+436,,Il dottor Jekyll e Mr. Hyde,"No infection, No Pre-existing Condition",1 in ,"Drama, Horror, Sci-Fi",Victor Fleming,110,chance,1941,8097
+437,,Dumbo,"No infection, Pre-existing Condition",1 in ,"Animation, Drama, Family","Samuel Armstrong, Norman Ferguson",110,chance,1941,116855
+438,,Gli invasori,"Active infection, No Pre-existing condition",1 in ,"Drama, Thriller, War",Michael Powell,110,chance,1941,5750
+439,,La grande menzogna,"Active infection, with Pre-existing condition",1 in ,Drama,Edmund Goulding,110,chance,1941,3336
+440,,Hellzapoppin',"No infection, No Pre-existing Condition",1 in ,"Comedy, Music",H.C. Potter,111,chance,1941,2685
+441,,L'inafferrabile signor Jordan,"No infection, Pre-existing Condition",1 in ,"Comedy, Fantasy, Romance",Alexander Hall,111,chance,1941,5736
+442,,Una pallottola per Roy,"Active infection, No Pre-existing condition",1 in ,"Action, Adventure, Crime",Raoul Walsh,111,chance,1941,14722
+443,,L'inafferrabile spettro,"Active infection, with Pre-existing condition",1 in ,"Adventure, Comedy, Horror",Arthur Lubin,111,chance,1941,3366
+444,,Com'era verde la mia valle,"No infection, No Pre-existing Condition",1 in ,"Drama, Family",John Ford,112,chance,1941,20806
+445,,Situazione pericolosa,"No infection, Pre-existing Condition",1 in ,"Crime, Drama, Film-Noir",H. Bruce Humberstone,112,chance,1941,3918
+446,,Allegri naviganti,"Active infection, No Pre-existing condition",1 in ,"Comedy, Musical, Romance",Arthur Lubin,112,chance,1941,2831
+447,,Sorvegliato speciale,"Active infection, with Pre-existing condition",1 in ,"Crime, Film-Noir, Thriller",Mervyn LeRoy,112,chance,1941,2631
+448,,Lady Eva,"No infection, No Pre-existing Condition",1 in ,"Comedy, Romance",Preston Sturges,113,chance,1941,18638
+449,,Piccole volpi,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",William Wyler,113,chance,1941,10092
+450,,Innamorato pazzo,"Active infection, No Pre-existing condition",1 in ,"Comedy, Romance",Jack Conway,113,chance,1941,2632
+451,,Il mistero del falco,"Active infection, with Pre-existing condition",1 in ,"Film-Noir, Mystery",John Huston,113,chance,1941,146815
+452,,Duello mortale,"No infection, No Pre-existing Condition",1 in ,"Drama, Thriller, War",Fritz Lang,114,chance,1941,4682
+453,,Il signore resta a pranzo,"No infection, Pre-existing Condition",1 in ,"Comedy, Romance",William Keighley,114,chance,1942,6594
+454,,Arriva John Doe!,"Active infection, No Pre-existing condition",1 in ,"Comedy, Drama, Romance",Frank Capra,114,chance,1941,11800
+455,,Il signore e la signora Smith,"Active infection, with Pre-existing condition",1 in ,"Comedy, Romance",Alfred Hitchcock,114,chance,1941,9101
+456,,Never Give a Sucker an Even Break,"No infection, No Pre-existing Condition",1 in ,"Comedy, Musical",Edward F. Cline,115,chance,1941,2108
+457,,Ho sognato un angelo,"No infection, Pre-existing Condition",1 in ,"Drama, Romance",George Stevens,115,chance,1941,6126
+458,,The Reluctant Dragon,"Active infection, No Pre-existing condition",1 in ,"Animation, Comedy, Family","Alfred L. Werker, Hamilton Luske",115,chance,1941,2612
+459,,Avventura a Zanzibar,"Active infection, with Pre-existing condition",1 in ,"Adventure, Comedy, Musical",Victor Schertzinger,115,chance,1941,2860
+460,,Il lupo dei mari,"No infection, No Pre-existing Condition",1 in ,"Adventure, Drama",Michael Curtiz,116,chance,1941,3207
+461,,Il sergente York,"No infection, Pre-existing Condition",1 in ,"Biography, Drama, History",Howard Hawks,116,chance,1941,15009
+462,,L'ombra dell'uomo ombra,"Active infection, No Pre-existing condition",1 in ,"Comedy, Crime, Mystery",W.S. Van Dyke,116,chance,1941,5239
+463,,I misteri di Shanghai,"Active infection, with Pre-existing condition",1 in ,"Crime, Drama, Film-Noir",Josef von Sternberg,116,chance,1941,2475
+464,,Bionda fragola,"No infection, No Pre-existing Condition",1 in ,"Comedy, Music, Romance",Raoul Walsh,117,chance,1941,3166
+465,,I dimenticati,"No infection, Pre-existing Condition",1 in ,"Adventure, Comedy, Drama",Preston Sturges,117,chance,1941,23436
+466,,Il sospetto,"Active infection, No Pre-existing condition",1 in ,"Mystery, Thriller",Alfred Hitchcock,117,chance,1941,31663
+467,,Il tesoro segreto di Tarzan,"Active infection, with Pre-existing condition",1 in ,"Action, Adventure, Romance",Richard Thorpe,117,chance,1941,2711
+468,,Il grande ammiraglio,"No infection, No Pre-existing Condition",1 in ,"Drama, History, Romance",Alexander Korda,118,chance,1941,3917
+469,,Quell'incerto sentimento,"No infection, Pre-existing Condition",1 in ,Comedy,Ernst Lubitsch,118,chance,1941,2206
+470,,La storia del generale Custer,"Active infection, No Pre-existing condition",1 in ,"Biography, Drama, Romance",Raoul Walsh,118,chance,1941,5669
+471,,Bionda in paradiso,"Active infection, with Pre-existing condition",1 in ,"Comedy, Fantasy, Mystery",Roy Del Ruth,118,chance,1941,2559
+472,,Fred il ribelle,"No infection, No Pre-existing Condition",1 in ,"History, Western",Fritz Lang,119,chance,1941,2336
+473,,L'uomo lupo,"No infection, Pre-existing Condition",1 in ,Horror,George Waggner,119,chance,1941,23071
+474,,Volto di donna,"Active infection, No Pre-existing condition",1 in ,"Drama, Film-Noir, Thriller",George Cukor,119,chance,1941,2699
+475,,L'inarrivabile felicità,"Active infection, with Pre-existing condition",1 in ,"Comedy, Musical, Romance",Sidney Lanfield,119,chance,1941,2180
+476,,Le fanciulle delle follie,"No infection, No Pre-existing Condition",1 in ,"Drama, Musical, Romance","Robert Z. Leonard, Busby Berkeley",120,chance,1941,2461
